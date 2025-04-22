@@ -12,8 +12,29 @@
 | ---- | ---------- |
 | **Purpose** | Build a closed‑loop, 240‑feddan (≈ 1 km²) regenerative farm in El Tor, South Sinai that (1) feeds ≈ 100 beef cattle year‑round, (2) produces its own biodiesel & ethanol, and (3) generates three cash streams — cactus fruit, moringa oil + press‑cake, and monofloral honey (cactus, moringa, premium Sidr). |
 | **Land‑use architecture** | A – Wind‑break ring: 4 × 4 m moringa seed trees, ≈ 25 feddans (continuous 30 m band).<br>B – Sidr + Acacia belts: two rings totalling 40–55 feddans; tree grid 6 × 6 m, pattern 1 Acacia : 2 Sidr.<br>  • Leaf‑moringa intercrops: 4 rows × 30 cm (1.2 m) + 1.5 m lanes between every tree row.<br>C – Cactus‑fig core: ≈ 150 feddans; rows N‑S, 2.5 m × 1.5 m.<br>D – Service / residential hub: ≈ 10 feddans centre‑east (roads, compost yard, workshop, housing).<br>(Option) Dedicated 10–15 feddan high‑density leaf‑moringa block if extra feed security desired. |
-| **Target outputs** (steady‑state, Year 5) | • Feed: ≈ 535 t DM yr‑¹ (cactus pads ½ + leaf‑moringa) → 100 cattle.<br>• Oil: ≈ 8 000 L moringa oil yr‑¹ + 5 t press‑cake.<br>• Ethanol: 1 500–3 000 L yr‑¹ from ≤ 2 % cactus pads (enough for trans‑esterification).<br>• Honey: cactus (spring), moringa (summer) & 400–600 kg "3assal Sidr" (autumn).<br>• Fruit: 6–8 t feddan‑¹ × 150 f → 900–1 200 t fresh pads + 900 t fruit → farm‑gate revenue ≈ EGP 4.5–9 M yr‑¹. |
+| **Target outputs** (steady‑state, Year 5) | • Feed: ≈ 535 t DM yr‑¹ (cactus pads ½ + leaf‑moringa) → 100 cattle.<br>• Oil: ≈ 8 000 L moringa oil yr‑¹ + 5 t press‑cake.<br>• Honey: cactus (spring), moringa (summer) & 400–600 kg "3assal Sidr" (autumn).<br>• Fruit: 6–8 t feddan‑¹ × 150 f → 900–1 200 t fresh pads + 900 t fruit → farm‑gate revenue ≈ EGP 4.5–9 M yr‑¹.<br>• Note: Ethanol (1 500–3 000 L yr‑¹ from cactus pads) and biodiesel production planned for Phase II (Years 4+). |
 | **Water plan** | Total demand ≈ 0.8 Mm³ yr‑¹.<br>– Cactus drip: 400–600 m³ feddan‑¹ yr‑¹ (deep pulse, 12‑day).<br>– Leaf‑moringa porous pipe: 2 300 m³ feddan‑¹ yr‑¹.<br>– Sidr basins & Acacia: ≈ 250 m³ feddan‑¹ yr‑¹ (establishment only). |
+### Land Allocation Overview
+
+| Component | Target Area (feddans) | 2026 | 2027 | 2028 | 2029 | Approx. % of 240 f | Primary function |
+|-----------|---------------------|------|------|------|------|--------------------|--------------------|
+| Perimeter **4 × 4 m Moringa Seed Wind‑break** (MSB) | **25** | 20 | 25 | 25 | 25 | ~10 % | Wind barrier, moringa oil & press‑cake |
+| **Sidr + Acacia Belts** (SAB) | **40 – 55** | 20 | 40 | 45 | 50 | 17 – 23 % | Premium Sidr honey, nitrogen fixation, shade micro‑climate |
+| **Cactus‑Fig Core** (CFB) | **150** | 15 | 50 | 100 | 150 | ~63 % | Fruit, spring honey & pad biomass for feed |
+| **Moringa Leaf-Intensive Beds** (MLB) | **10 – 15** | 0 | 0 | 15 | 15 | ~6 % | High-density leaf production within SAB intercrop zones |
+| **Integrated Infrastructure Zone** | **14** | 14 | 14 | 14 | 14 | ~6 % | Combined infrastructure including: |
+| — *Water Systems* | *5–6* | *6* | *6* | *5* | *5* | *~2.5%* | Well systems, storage tanks, filtration, distribution hubs |
+| — *Service & Residential* | *5* | *5* | *5* | *5* | *5* | *~2%* | Roads, workshops, housing, equipment storage |
+| — *Compost & Processing* | *2* | *2* | *2* | *3* | *3* | *~1%* | Compost yards, honey processing, seed cleaning |
+| — *Apiary Support* | *1* | *1* | *1* | *1* | *1* | *~0.5%* | Equipment storage, extraction facility, queen rearing |
+
+> **Development sequence:**
+> 1. **Year 1 (2026):** Establish core MSB, well infrastructure, first SAB belt (20 feddans), initial CFB blocks (15 feddans), integrated infrastructure zone
+> 2. **Year 2 (2027):** Complete second SAB belt, expand CFB to 50 feddans, develop honey processing within existing infrastructure footprint
+> 3. **Year 3 (2028):** Introduce MLB as intercrops within mature SAB (first belt), expand CFB to 100 feddans, optimize infrastructure utilization
+> 4. **Year 4 (2029):** Complete CFB core, expand MLB intercropping to second SAB belt, maintain infrastructure within 6% total land area
+
+**Infrastructure Optimization:** All infrastructure components are strategically consolidated to maintain the 6% maximum land allocation, with internal rebalancing as priorities shift from water systems in early years to processing facilities in later years.
 
 ---
 ## Key Plant Species & Their Roles
@@ -31,26 +52,25 @@
 - **Feed value:** Low protein (4-6%) but high energy and water content; excellent drought buffer.
 - **Risks:** Susceptible to cochineal insects; fruit quality affected by humidity at ripening.
 - **Management strategy:** North-south row orientation maximizes light interception; scheduled pad harvesting maintains plant vigor and feed quality.
-
 ### Sidr (Ziziphus spina-christi)
 **System importance:** Deep-rooted native tree providing premium honey, shade, and soil improvement.
 - **Revenue streams:** Premium "3assal Sidr" honey (400-600 kg/yr), highest value product per unit.
 - **Ecological value:** Drought-resistant native species; supports beneficial insects; deep root system accesses subsurface moisture.
 - **Risks:** Slow establishment; requires protection during early growth.
-- **Management strategy:** Strategic placement in belts; 2:1 ratio with Acacia for nitrogen balance.
+- **Management strategy:** Strategic placement in belts; 2:1 ratio with Acacia for nitrogen balance; prunings provide valuable biochar feedstock.
 
 ### Acacia (Acacia nilotica/tortilis)
 **System importance:** Nitrogen-fixing support species enhancing soil fertility.
 - **Revenue streams:** Indirect through soil improvement and system resilience.
 - **Ecological value:** Fixes 40-80 kg N/ha/yr; provides shade; contributes to windbreak function.
 - **Risks:** Potential for excessive spread if not managed; thorns require careful handling.
-- **Management strategy:** Intercropped with Sidr at 1:2 ratio; periodic pruning provides biochar feedstock.
+- **Management strategy:** Intercropped with Sidr at 1:2 ratio; periodic pruning provides biochar feedstock; woody biomass excellent for biochar production.
 
 ### System Integration Benefits
 The plant selection creates complementary seasonal production cycles, diversified revenue streams, and ecological resilience through functional diversity. The spatial arrangement optimizes water use efficiency while the multi-story design maximizes photosynthetic capture per unit area.
 
 
-## Biochar Production & Land‑Expansion Loop
+## Biochar Production & Land‑Expansion Loop
 
 **Purpose.** Supply 20–25 t biochar yr⁻¹ from on‑site residues to rehabilitate 4–8 feddans of new beds or tree lines each season.
 
@@ -73,7 +93,7 @@ The plant selection creates complementary seasonal production cycles, diversifie
 
 * **Lane geometry:** 1.5 m left + 1.2 m cutting strip + 1.5 m right lane.
 * **Hardware:** Two electric flat‑deck carts (<1.2 m wide) with shared 1.2 m sickle‑bar suspended on telescopic arms.
-* **Catcher:** Raised nylon “hammock” net 25 cm above soil – clears 15 cm stumps.
+* **Catcher:** Raised nylon "hammock" net 25 cm above soil – clears 15 cm stumps.
 * **Through‑put:** 5 feddans day⁻¹ per two‑person crew (8 h).
 
 ---
@@ -114,7 +134,7 @@ Apply **3 t feddan‑¹** to MLB beds **after every 3rd harvest** (~April & 
 | **Biodiesel** | 8 000 L moringa oil | 2 × 1 000 L trans‑ester reactors, glycerol settler | 7 600 L biodiesel + 800 L glycerol |
 | Integration | Ethanol used as 10 % volume reactant; surplus sold locally. |
 
-Commissioning planned **Q1 2029** once cash‑flow turns positive and honey export line is stable.
+Commissioning planned **Q1 2029** once cash‑flow turns positive and honey export line is stable.
 
 ---
 
