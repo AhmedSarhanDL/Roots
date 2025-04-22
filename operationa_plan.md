@@ -6,6 +6,7 @@
 > **CFB = Cactus Fig Block**\
 > **SAB = Sidr-Acacia Belt** (6 × 6 m grid, 2:1 Sidr:Acacia ratio)
 
+
 ## Project Scope — "El Tor Integrated Desert Farm"
 
 | Item | Definition |
