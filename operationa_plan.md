@@ -14,15 +14,16 @@
 | **Purpose** | Build a closed‑loop, 240‑feddan (≈ 1 km²) regenerative farm in El Tor, South Sinai that (1) feeds ≈ 100 beef cattle year‑round, (2) produces its own biodiesel & ethanol, and (3) generates three cash streams — cactus fruit, moringa oil + press‑cake, and monofloral honey (cactus, moringa, premium Sidr). |
 | **Land‑use architecture** | A – Wind‑break ring: 4 × 4 m moringa seed trees, ≈ 25 feddans (continuous 30 m band).<br>B – Sidr + Acacia belts: two rings totalling 40–55 feddans; tree grid 6 × 6 m, pattern 1 Acacia : 2 Sidr.<br>  • Leaf‑moringa intercrops: 4 rows × 30 cm (1.2 m) + 1.5 m lanes between every tree row.<br>C – Cactus‑fig core: ≈ 150 feddans; rows N‑S, 2.5 m × 1.5 m.<br>D – Service / residential hub: ≈ 10 feddans centre‑east (roads, compost yard, workshop, housing).<br>(Option) Dedicated 10–15 feddan high‑density leaf‑moringa block if extra feed security desired. |
 | **Target outputs** (steady‑state, Year 5) | • Feed: ≈ 535 t DM yr‑¹ (cactus pads ½ + leaf‑moringa) → 100 cattle.<br>• Oil: ≈ 8 000 L moringa oil yr‑¹ + 5 t press‑cake.<br>• Honey: cactus (spring), moringa (summer) & 400–600 kg "3assal Sidr" (autumn).<br>• Fruit: 6–8 t feddan‑¹ × 150 f → 900–1 200 t fresh pads + 900 t fruit → farm‑gate revenue ≈ EGP 4.5–9 M yr‑¹.<br>• Note: Ethanol (1 500–3 000 L yr‑¹ from cactus pads) and biodiesel production planned for Phase II (Years 4+). |
-| **Water plan** | Total demand ≈ 0.8 Mm³ yr‑¹.<br>– Cactus drip: 400–600 m³ feddan‑¹ yr‑¹ (deep pulse, 12‑day).<br>– Leaf‑moringa porous pipe: 2 300 m³ feddan‑¹ yr‑¹.<br>– Sidr basins & Acacia: ≈ 250 m³ feddan‑¹ yr‑¹ (establishment only). |
+| **Water plan** | **Regulatory Constraints & Mitigation**<br>• **Permit Limit:** 0.657 Mm³ yr⁻¹ (238 feddans × 1,800 m³ d⁻¹ well limit)<br>• **Initial Demand:** 0.8 Mm³ yr⁻¹ (22% over limit)<br>• **Mitigation Strategy:**<br>1. **CFB Reduction:** Stage cactus-fig core to 120 feddans max until second well permitted<br>2. **MLB Optimization:** Replace 10-15 feddans MLB with drought-tolerant alternatives (sisal/buffel grass)<br>3. **Water Conservation:** Deploy shade net + clay-gel mulch over MLB strips (halves evaporative loss)<br>4. **Irrigation Efficiency:** Porous pipe system reduces MLB water use by 20%<br>• **Adjusted Water Budget:**<br>– Cactus drip: 400-600 m³ feddan⁻¹ yr⁻¹ (120 feddans max)<br>– Leaf-moringa porous pipe: 1,840 m³ feddan⁻¹ yr⁻¹ (20% reduction)<br>– Sidr basins & Acacia: ≈ 250 m³ feddan⁻¹ yr⁻¹ (establishment only)<br>– Alternative crops: 600-800 m³ feddan⁻¹ yr⁻¹ (sisal/buffel grass) |
 ### Land Allocation Overview
 
 | Component | Spacing Pattern | Target Area (feddans) | 2026 | 2027 | 2028 | 2029 | Approx. % of 240 f | Primary function |
 |-----------|----------------|---------------------|------|------|------|------|--------------------|--------------------|
 | Perimeter **Moringa Seed Wind‑break** (MSB) | **4 × 4 m grid** | **25** | 20 | 25 | 25 | 25 | ~10 % | Wind barrier, moringa oil & press‑cake |
 | **Sidr + Acacia Belts** (SAB) | **6 × 6 m grid** (2:1 Sidr:Acacia ratio) | **40 – 55** | 20 | 40 | 45 | 50 | 17 – 23 % | Premium Sidr honey, nitrogen fixation, shade micro‑climate |
-| **Cactus‑Fig Core** (CFB) | **2.5 × 1.5 m** rows (N-S orientation) | **150** | 15 | 50 | 100 | 150 | ~63 % | Fruit, spring honey & pad biomass for feed |
-| **Moringa Leaf-Intensive Beds** (MLB) | **30 cm rows** in 1.2 m strips + 1.5 m lanes | **10 – 15** | 0 | 0 | 15 | 15 | ~6 % | High-density leaf production within SAB intercrop zones |
+| **Cactus‑Fig Core** (CFB) | **2.5 × 1.5 m** rows (N-S orientation) | **120** | 15 | 50 | 100 | 120 | ~50 % | Fruit, spring honey & pad biomass for feed |
+| **Moringa Leaf-Intensive Beds** (MLB) | **30 cm rows** in 1.2 m strips + 1.5 m lanes | **5 – 10** | 0 | 0 | 10 | 10 | ~4 % | High-density leaf production within SAB intercrop zones |
+| **Drought-Tolerant Zone** | **1.5 × 1.5 m** grid | **10 – 15** | 0 | 0 | 10 | 15 | ~6 % | Sisal/buffel grass for reduced water footprint |
 | **Integrated Infrastructure Zone** | Various structures | **14** | 14 | 14 | 14 | 14 | ~6 % | Combined infrastructure including: |
 | — *Water Systems* | *Clustered facilities* | *5–6* | *6* | *6* | *5* | *5* | *~2.5%* | Well systems, storage tanks, filtration, distribution hubs |
 | — *Service & Residential* | *Central campus* | *5* | *5* | *5* | *5* | *5* | *~2%* | Roads, workshops, housing, equipment storage |
@@ -317,7 +318,6 @@ Apply **3 t feddan‑¹** to MLB beds **after every 3rd harvest** (~April & 
 *Note: Begin with 20 hives in Year 2, expanding to 60+ by Year 4 as flowering areas mature.*
 
 ---
-
 ## Energy Module (Post‑2029)
 
 > **Deferred until 2029** to avoid capital drag in the establishment phase.
@@ -326,10 +326,11 @@ Apply **3 t feddan‑¹** to MLB beds **after every 3rd harvest** (~April & 
 |--------|-----------|----------------------------|--------|
 | **Ethanol** | 4 % of cactus pads (≈30 t month⁻¹) | 1 m³ stainless fermenter + small distillation column | 3 000 L yr‑¹ |
 | **Biodiesel** | 8 000 L moringa oil | 2 × 1 000 L trans‑ester reactors, glycerol settler | 7 600 L biodiesel + 800 L glycerol |
-| **Green Hydrogen** | Syngas from biomass gasification (prunings, waste) | Small-scale gasifier + water-gas shift reactor + PSA unit | 500-800 kg H₂ yr⁻¹ |
-| Integration | Ethanol used as 10 % volume reactant; surplus sold locally. Hydrogen for farm equipment or local energy storage. |
+| Integration | Ethanol used as reactant for biodiesel production; B30 blend (30% biodiesel) for on-farm machinery |
 
-Commissioning planned **Q1 2029** once cash‑flow turns positive and honey export line is stable. Green hydrogen production to be evaluated in **Q3 2029** based on biomass availability and local demand.
+Commissioning planned **Q1 2029** once cash‑flow turns positive and honey export line is stable. Focus on B30 biodiesel blend for on-farm machinery only, with ethanol production limited to esterification reactant needs. Green hydrogen production removed from initial plan due to negative energy return and prohibitive costs (>US$ 20 kg⁻¹) at our small scale (0.8 t yr⁻¹). May revisit hydrogen only if regional demand and subsidies materialize to support economic viability.
+
+*Note: TEA analysis indicates ethanol from cactus pads has 12+ year capital payback period; implementation justified primarily for biodiesel processing rather than as standalone revenue stream.*
 
 ---
 
