@@ -12,14 +12,15 @@
 | Item | Definition |
 | ---- | ---------- |
 | **Purpose** | Build a closed‑loop, 240‑feddan (≈ 1 km²) regenerative farm in El Tor, South Sinai that (1) feeds ≈ 100 beef cattle year‑round, (2) produces its own biodiesel & ethanol, and (3) generates three cash streams — cactus fruit, moringa oil + press‑cake, and monofloral honey (cactus, moringa, premium Sidr). |
-| **Land‑use architecture** | A – Wind‑break ring: 4 × 4 m moringa seed trees, ≈ 25 feddans (continuous 30 m band).<br>B – Sidr + Acacia belts: two rings totalling 40–55 feddans; tree grid 6 × 6 m, pattern 1 Acacia : 2 Sidr.<br>  • Leaf‑moringa intercrops: 4 rows × 30 cm (1.2 m) + 1.5 m lanes between every tree row.<br>C – Cactus‑fig core: ≈ 150 feddans; rows N‑S, 2.5 m × 1.5 m.<br>D – Service / residential hub: ≈ 10 feddans centre‑east (roads, compost yard, workshop, housing).<br>(Option) Dedicated 10–15 feddan high‑density leaf‑moringa block if extra feed security desired. |
+| **Land‑use architecture** | A – Outer Casuarina windbreak: 3 × 3 m grid, ≈ 5 feddans (continuous outer perimeter).<br>B – Moringa Seed Wind‑break: 4 × 4 m moringa seed trees, ≈ 20 feddans (30m inner band).<br>C – Sidr + Acacia belts: two rings totalling 40–55 feddans; tree grid 6 × 6 m, pattern 1 Acacia : 2 Sidr.<br>  • Leaf‑moringa intercrops: 4 rows × 30 cm (1.2 m) + 1.5 m lanes between every tree row.<br>D – Cactus‑fig core: ≈ 120 feddans; rows N‑S, 2.5 m × 1.5 m.<br>E – Service / residential hub: ≈ 14 feddans centre‑east (roads, compost yard, workshop, housing).<br>F – Drought-tolerant zone: 10-15 feddans of sisal/buffel grass in areas requiring reduced water use. |
 | **Target outputs** (steady‑state, Year 5) | • Feed: ≈ 535 t DM yr‑¹ (cactus pads ½ + leaf‑moringa) → 100 cattle.<br>• Oil: ≈ 8 000 L moringa oil yr‑¹ + 5 t press‑cake.<br>• Honey: cactus (spring), moringa (summer) & 400–600 kg "3assal Sidr" (autumn).<br>• Fruit: 6–8 t feddan‑¹ × 150 f → 900–1 200 t fresh pads + 900 t fruit → farm‑gate revenue ≈ EGP 4.5–9 M yr‑¹.<br>• Note: Ethanol (1 500–3 000 L yr‑¹ from cactus pads) and biodiesel production planned for Phase II (Years 4+). |
-| **Water plan** | **Regulatory Constraints & Mitigation**<br>• **Permit Limit:** 0.657 Mm³ yr⁻¹ (238 feddans × 1,800 m³ d⁻¹ well limit)<br>• **Initial Demand:** 0.8 Mm³ yr⁻¹ (22% over limit)<br>• **Mitigation Strategy:**<br>1. **CFB Reduction:** Stage cactus-fig core to 120 feddans max until second well permitted<br>2. **MLB Optimization:** Replace 10-15 feddans MLB with drought-tolerant alternatives (sisal/buffel grass)<br>3. **Water Conservation:** Deploy shade net + clay-gel mulch over MLB strips (halves evaporative loss)<br>4. **Irrigation Efficiency:** Porous pipe system reduces MLB water use by 20%<br>• **Adjusted Water Budget:**<br>– Cactus drip: 400-600 m³ feddan⁻¹ yr⁻¹ (120 feddans max)<br>– Leaf-moringa porous pipe: 1,840 m³ feddan⁻¹ yr⁻¹ (20% reduction)<br>– Sidr basins & Acacia: ≈ 250 m³ feddan⁻¹ yr⁻¹ (establishment only)<br>– Alternative crops: 600-800 m³ feddan⁻¹ yr⁻¹ (sisal/buffel grass) |
+| **Water plan** | **Regulatory Constraints & Mitigation**<br>• **Permit Limit:** 0.657 Mm³ yr⁻¹ (238 feddans × 1,800 m³ d⁻¹ well limit)<br>• **Initial Demand:** 0.8 Mm³ yr⁻¹ (22% over limit)<br>• **Mitigation Strategy:**<br>1. **CFB Reduction:** Stage cactus-fig core to 120 feddans max until second well permitted<br>2. **MLB Optimization:** Replace 10-15 feddans MLB with drought-tolerant alternatives (sisal/buffel grass)<br>3. **Water Conservation:** Deploy shade net + clay-gel mulch over MLB strips (halves evaporative loss)<br>4. **Irrigation Efficiency:** Porous pipe system reduces MLB water use by 20%<br>5. **CWB Implementation:** Utilize drought-resistant Casuarina for outer windbreak (only 300-350 m³ feddan⁻¹ yr⁻¹ after establishment)<br>• **Adjusted Water Budget:**<br>– Cactus drip: 400-600 m³ feddan⁻¹ yr⁻¹ (120 feddans max)<br>– Leaf-moringa porous pipe: 1,840 m³ feddan⁻¹ yr⁻¹ (20% reduction)<br>– Sidr basins & Acacia: ≈ 250 m³ feddan⁻¹ yr⁻¹ (establishment only)<br>– Alternative crops: 600-800 m³ feddan⁻¹ yr⁻¹ (sisal/buffel grass)<br>– Casuarina windbreak: 600-800 m³ feddan⁻¹ yr⁻¹ (establishment); 300-350 m³ feddan⁻¹ yr⁻¹ (mature) |
 ### Land Allocation Overview
 
 | Component | Spacing Pattern | Target Area (feddans) | 2026 | 2027 | 2028 | 2029 | Approx. % of 240 f | Primary function |
 |-----------|----------------|---------------------|------|------|------|------|--------------------|--------------------|
-| Perimeter **Moringa Seed Wind‑break** (MSB) | **4 × 4 m grid** | **25** | 20 | 25 | 25 | 25 | ~10 % | Wind barrier, moringa oil & press‑cake |
+| Perimeter **Moringa Seed Wind‑break** (MSB) | **4 × 4 m grid** | **20** | 15 | 20 | 20 | 20 | ~8 % | Wind barrier, moringa oil & press‑cake |
+| **Casuarina Windbreak Belt** (CWB) | **3 × 3 m grid** | **5** | 5 | 5 | 5 | 5 | ~2 % | Primary windbreak (outer perimeter), drought-resistant barrier |
 | **Sidr + Acacia Belts** (SAB) | **6 × 6 m grid** (2:1 Sidr:Acacia ratio) | **40 – 55** | 20 | 40 | 45 | 50 | 17 – 23 % | Premium Sidr honey, nitrogen fixation, shade micro‑climate |
 | **Cactus‑Fig Core** (CFB) | **2.5 × 1.5 m** rows (N-S orientation) | **120** | 15 | 50 | 100 | 120 | ~50 % | Fruit, spring honey & pad biomass for feed |
 | **Moringa Leaf-Intensive Beds** (MLB) | **30 cm rows** in 1.2 m strips + 1.5 m lanes | **5 – 10** | 0 | 0 | 10 | 10 | ~4 % | High-density leaf production within SAB intercrop zones |
@@ -57,16 +58,16 @@
 
 ---
 
-## Year 1 (2026) – Establish Core Systems: MSB, CFB & First SAB (≈45 Feddans)
+## Year 1 (2026) – Establish Core Systems: MSB, CFB, CWB & First SAB (≈55 Feddans)
 
-| Quarter          | MSB (Seed Trees)                                                | CFB                                                       | SAB (Sidr & Acacia)                                | Beekeeping                                     | Cattle & Feed                        | Infra & Labor                                             |
+| Quarter          | MSB (Seed Trees) & CWB                                          | CFB                                                       | SAB (Sidr & Acacia)                                | Beekeeping                                     | Cattle & Feed                        | Infra & Labor                                             |
 | ---------------- | --------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------ | --------------------------------------------------------- |
-| **Q1 (Jan–Mar)** | Nursery sow 1 600 seeds → 1 200 transplants (20 feddans @3×5 m) | Collect cladodes, callusing in nursery                    | Prepare NW belt site (≈20 feddans)                | Site apiary location, prep equipment            | Feed mixer & bins installed          | **Complete well drilling**; water trunk line; 5 permanent hires |
-| **Q2 (Apr–Jun)** | Transplant 1 200 seedlings                                      | **Transplant 2 400 cladodes** (≈8 feddans)                | –                                                  | Deploy first 10 hives for early pollination     | Build first compost bays             | Storage & workshop complete; install well pumping system    |
-| **Q3 (Jul–Sep)** | Establishment care, first **light** leaf pruning (\~5 t fresh)  | Veg growth; **prep for additional 7 feddans**             | Nursery preparation for 600 trees (400 Sidr, 200 Acacia) | Monitor hives, train staff                     | Trial 30% leaf / 70% purchased pads | 2 seasonal planters; water distribution system expansion   |
-| **Q4 (Oct–Dec)** | Regular 45‑day leaf trims (≈10 t)                               | **Plant additional 7 feddans** (total 15 feddans Year 1)  | **Plant first NW Sidr-Acacia belt** (20 feddans)  | Expand to 15 hives, winterize                   | Blend trials continue                | Seed‑cleaning unit installed                              |
+| **Q1 (Jan–Mar)** | Nursery sow 1,600 moringa seeds → 1,200 transplants (15 feddans @3×5 m); **prepare Casuarina nursery (1,800 seedlings)** | Collect cladodes, callusing in nursery                    | Prepare NW belt site (≈20 feddans)                | Site apiary location, prep equipment            | Feed mixer & bins installed          | **Complete well drilling**; water trunk line; 5 permanent hires |
+| **Q2 (Apr–Jun)** | Transplant 1,200 moringa seedlings; **plant Casuarina seedlings (5 feddans @3×3 m)** | **Transplant 2,400 cladodes** (≈8 feddans)                | –                                                  | Deploy first 10 hives for early pollination     | Build first compost bays             | Storage & workshop complete; install well pumping system    |
+| **Q3 (Jul–Sep)** | Establishment care, first **light** moringa leaf pruning (\~5 t fresh); **initial irrigation for Casuarina** | Veg growth; **prep for additional 7 feddans**             | Nursery preparation for 600 trees (400 Sidr, 200 Acacia) | Monitor hives, train staff                     | Trial 30% leaf / 70% purchased pads | 2 seasonal planters; water distribution system expansion   |
+| **Q4 (Oct–Dec)** | Regular 45‑day moringa leaf trims (≈10 t); **establish basin irrigation for Casuarina** | **Plant additional 7 feddans** (total 15 feddans Year 1)  | **Plant first NW Sidr-Acacia belt** (20 feddans)  | Expand to 15 hives, winterize                   | Blend trials continue                | Seed‑cleaning unit installed                              |
 
-**Outcome Y1:** MSB fully rooted; first seed pods set (green). Expanded CFB establishment (15 feddans). First Sidr-Acacia belt planted (20 feddans). Initial beekeeping operations established. No MLB yet.
+**Outcome Y1:** MSB fully rooted; **CWB established as outer perimeter windbreak**; first seed pods set (green). Expanded CFB establishment (15 feddans). First Sidr-Acacia belt planted (20 feddans). Initial beekeeping operations established. No MLB yet.
 
 ---
 
@@ -140,6 +141,14 @@
 - **Feed value:** 25-30% protein DM, excellent amino acid profile, high vitamin content.
 - **Risks:** Frost sensitive; requires irrigation management; susceptible to aphids during stress periods.
 - **Management strategy:** Dual cultivation approach (MSB for seeds, MLB for leaf production) maximizes utility while providing system redundancy.
+
+### Casuarina (Casuarina equisetifolia)
+**System importance:** Drought-resistant perimeter windbreak providing critical initial protection for other species.
+- **Environmental benefits:** Superior wind barrier, sand capture, reduces evapotranspiration in protected zones.
+- **Physical characteristics:** Fast-growing (3-4m in first 2 years), deep-rooted, tolerates saline soils.
+- **Water efficiency:** Very low water demand after establishment (300-350 m³ feddan⁻¹ yr⁻¹).
+- **Secondary uses:** Nitrogen fixation through root nodules, leaf litter for mulch, potential timber source.
+- **Management strategy:** Planted in dense 3×3m grid on outermost perimeter, pruned to maintain wind barrier function.
 
 ### Cactus Fig (Opuntia ficus-indica)
 **System importance:** Core production species providing fruit, fodder, and water storage.
@@ -336,7 +345,10 @@ Commissioning planned **Q1 2029** once cash‑flow turns positive and honey expo
 
 ## Orientation Justification
 
-* Rows **E‑W** (wind‑break, SAB, MLB) present a solid face to prevailing NW winds, maximising sand interception and casting afternoon shade onto leaf beds.
+* **Dual windbreak system:** 
+  * Outer Casuarina belt (CWB) rows **E-W** present a dense, drought-resistant barrier to prevailing NW winds, providing primary sand interception.
+  * Inner Moringa belt (MSB) rows **E-W** provide additional wind protection while creating productive zones for oil and seed production.
+* Sidr-Acacia belt (SAB) rows **E-W** maximize afternoon shade onto MLB strips in between tree rows.
 * Cactus rows **N‑S** equalise solar exposure, reduce fruit sun‑burn and simplify east‑west harvest lanes.
 * 45° diagonal layout rejected (longer pipes, poorer wind control, uneven light).
 
@@ -450,6 +462,13 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 | **Establishment (0-12 mo)** | 800-1000 | 2.2-2.7 | 6-8 | - 2,600 cladodes<br>- Drip system<br>- 1 t compost | Critical for pad rooting |
 | **Early Production (12-24 mo)** | 600-800 | 1.6-2.2 | 4-6 | - 0.5 t compost/yr | Begin fruit/pad harvest |
 | **Full Production (24+ mo)** | 400-600 base<br>+200-300 spring | 1.1-1.6 base<br>2.2-2.7 spring | 8-10 | - 0.5 t compost/yr<br>- Harvest tools | Peak fruit + biomass yields;<br>Additional water Feb-Apr for optimal flowering/fruiting |
+
+### Casuarina Windbreak Belt (CWB) Requirements per Feddan
+| Stage | Water (m³/yr) | Daily Water (m³) | Labor (hrs/wk) | Key Inputs | Notes |
+| ----- | ------------ | ---------------- | -------------- | ---------- | ----- |
+| **Establishment (0-12 mo)** | 600-800 | 1.6-2.2 | 3-4 | - 360 seedlings<br>- 1 t compost<br>- Basin irrigation system | Critical for rapid initial growth |
+| **Early Growth (12-24 mo)** | 400-500 | 1.1-1.4 | 2-3 | - 0.5 t compost/yr<br>- Pruning equipment | Develop strong vertical growth |
+| **Mature (24+ mo)** | 300-350 | 0.8-1.0 | 1-2 | - Minimal inputs<br>- Occasional pruning | Extremely drought-resistant once established |
 
 ### Sidr-Acacia Belt (SAB) Requirements per Feddan
 | Stage | Water (m³/yr) | Daily Water (m³) | Labor (hrs/wk) | Key Inputs | Notes |
