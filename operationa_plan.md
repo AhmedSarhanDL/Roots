@@ -11,35 +11,70 @@
 
 | Item | Definition |
 | ---- | ---------- |
-| **Purpose** | Build a closed‑loop, 240‑feddan (≈ 1 km²) regenerative farm in El Tor, South Sinai that (1) feeds ≈ 45 beef cattle year‑round, (2) produces its own biodiesel & ethanol, and (3) generates three cash streams — cactus fruit, moringa oil + press‑cake, and monofloral honey (cactus, moringa, premium Sidr). |
-| **Land‑use architecture** | A – Wind‑break ring: 4 × 4 m moringa seed trees, ≈ 25 feddans (continuous 30 m band).<br>B – Sidr + Acacia belts: two rings totalling 40–55 feddans; tree grid 6 × 6 m, pattern 1 Acacia : 2 Sidr.<br>  • Leaf‑moringa intercrops: 4 rows × 30 cm (1.2 m) + 1.5 m lanes between every tree row.<br>C – Cactus‑fig core: ≈ 120 feddans; rows N‑S, 2.5 m × 1.5 m.  <!-- ~50 % of 240 feddans --> <br>D – Service / residential hub: ≈ 10 feddans centre‑east (roads, compost yard, workshop, housing).<br>(Option) Dedicated 10–15 feddan high‑density leaf‑moringa block if extra feed security desired. |
-| **Target outputs** (steady‑state, Year 5) | • Feed: ≈ 140 t DM yr‑¹ (cactus pads ½ + leaf‑moringa) → 40-45 cattle.<br>• Oil: ≈ 7 000 L moringa oil yr‑¹ + 4.5 t press‑cake.<br>• Honey: cactus (spring), moringa (summer) & 300–400 kg "3assal Sidr" (autumn).<br>• Fruit: 4–6 t feddan‑¹ × 150 f → 600–900 t fresh pads + 600-750 t fruit → farm‑gate revenue ≈ EGP 4–7 M yr‑¹.<br>• Note: Ethanol (1 500–3 000 L yr‑¹ from cactus pads) and biodiesel production planned for Phase II (Years 6+). |
-| **Water plan** | Total initial demand ≈ 0.63 Mm³ yr‑¹ (aligned with the current 1 800 m³ d‑¹ extraction permit). Expansion above this threshold is contingent on drilling a second well or adding seasonal storage (STES reservoir).<br>– Cactus drip: 400–600 m³ feddan‑¹ yr‑¹ (deep pulse, 12‑day).<br>– Leaf‑moringa porous pipe: 2 300 m³ feddan‑¹ yr‑¹.<br>– Sidr basins & Acacia: ≈ 250 m³ feddan‑¹ yr‑¹ (establishment only). <br>– **System losses**: 5% allocation for leaks, filter backwash, and evaporation. |
+| **Purpose** | Build a closed‑loop, 150‑feddan (≈ 0.63 km²) regenerative farm in El Tor, South Sinai that (1) feeds ≈ 30 beef cattle year‑round, (2) produces its own biodiesel & ethanol, and (3) generates three cash streams — cactus fruit, moringa oil + press‑cake, and monofloral honey (cactus, moringa, premium Sidr). |
+| **Land‑use architecture** | A – Wind‑break ring: 4 × 4 m moringa seed trees, ≈ 25 feddans (continuous 30 m band).<br>B – Sidr + Acacia belts: two rings totalling 30 feddans; tree grid 6 × 6 m, pattern 1 Acacia : 2 Sidr.<br>  • Leaf‑moringa intercrops: 4 rows × 30 cm (1.2 m) + 1.5 m lanes between every tree row.<br>C – Cactus‑fig core: ≈ 85 feddans; rows N‑S, 2.5 m × 1.5 m.  <!-- ~57 % of 150 feddans --> <br>D – Service / residential hub: ≈ 10 feddans centre‑east (roads, compost yard, workshop, housing).<br>(Option) Expand MSB area by 5–8 feddans if extra feed security desired. |
+| **Target outputs** (steady‑state, Year 5) | • Feed: ≈ 100 t DM yr‑¹ (cactus pads ½ + leaf‑moringa from MSB & SAB intercropping) → 28-32 cattle.<br>• Oil: ≈ 5 000 L moringa oil yr‑¹ + 3.2 t press‑cake.<br>• Honey: cactus (spring), moringa (summer) & 200–250 kg "3assal Sidr" (autumn).<br>• Fruit: 4–6 t feddan‑¹ × 85 f → 340–510 t fresh pads + 425-500 t fruit → farm‑gate revenue ≈ EGP 3–5 M yr‑¹.<br>• Note: Ethanol (1 000–2 000 L yr‑¹ from cactus pads) and biodiesel production planned for Phase II (Years 6+). |
+| **Water plan** | Total initial demand ≈ 0.42 Mm³ yr‑¹ (aligned with the current 1 800 m³ d‑¹ extraction permit). Expansion above this threshold is contingent on drilling a second well or adding seasonal storage (STES reservoir).<br>– Cactus drip: 400–600 m³ feddan‑¹ yr‑¹ (deep pulse, 12‑day).<br>– Leaf‑moringa porous pipe: 2 300 m³ feddan‑¹ yr‑¹.<br>– Sidr basins & Acacia: ≈ 250 m³ feddan‑¹ yr‑¹ (establishment only). <br>– **System losses**: 5% allocation for leaks, filter backwash, and evaporation. |
 ### Land Allocation Overview
 
-| Component | Spacing Pattern | Target Area (feddans) | 2026 | 2027 | 2028 | 2029 | Approx. % of 240 f | Primary function |
+| Component | Spacing Pattern | Target Area (feddans) | 2026 | 2027 | 2028 | 2029 | Approx. % of 150 f | Primary function |
 |-----------|----------------|---------------------|------|------|------|------|--------------------|--------------------|
-| Perimeter **Moringa Seed Wind‑break** (MSB) | **4 × 4 m grid** | **25** | 20 | 25 | 25 | 25 | ~10 % | Wind barrier, moringa oil & press‑cake |
-| **Sidr + Acacia Belts** (SAB) | **6 × 6 m grid** (2:1 Sidr:Acacia ratio) | **40 – 55** | 20 | 40 | 45 | 50 | 17 – 23 % | Premium Sidr honey, nitrogen fixation, shade micro‑climate |
-| **Cactus‑Fig Core** (CFB) | **2.5 × 1.5 m** rows (N-S orientation) | **120** | 50 | 80 | 100 | 120 | ~50 % | Fruit, spring honey & pad biomass for feed |
-| **Moringa Leaf-Intensive Beds** (MLB) | **30 cm rows** in 1.2 m strips + 1.5 m lanes | **10 – 15** | 0 | 0 | 15 | 15 | ~6 % | High-density leaf production within SAB intercrop zones |
-| **Integrated Infrastructure Zone** | Various structures | **14** | 14 | 14 | 14 | 14 | ~6 % | Combined infrastructure including: |
-| — *Water Systems* | *Clustered facilities* | *5–6* | *6* | *6* | *5* | *5* | *~2.5%* | Well systems, storage tanks, filtration, distribution hubs |
-| — *Service & Residential* | *Central campus* | *5* | *5* | *5* | *5* | *5* | *~2%* | Roads, workshops, housing, equipment storage |
-| — *Compost & Processing* | *Yard layout* | *2* | *2* | *2* | *3* | *3* | *~1%* | Compost yards, honey processing, seed cleaning |
-| — *Apiary Support* | *Scattered stations* | *1* | *1* | *1* | *1* | *1* | *~0.5%* | Equipment storage, extraction facility, queen rearing |
+| Perimeter **Moringa Seed Wind‑break** (MSB) | **4 × 4 m grid** | **25** | 15 | 20 | 22 | 25 | ~17% | Wind barrier, moringa oil & press‑cake, leaf production |
+| **Sidr Belts** (SAB – 2/3 of belt) | **6 × 6 m grid** | **20** | 10 | 16 | 18 | 20 | ~13% | Premium Sidr honey, nectar |
+| **Acacia Belts** (SAB – 1/3 of belt) | **6 × 6 m grid** | **10** | 5 | 9 | 10 | 10 | ~7% | Nitrogen fixation, shade, soil improvement |
+| **Cactus‑Fig Core** (CFB) | **2.5 × 1.5 m** rows (N-S orientation) | **85** | 30 | 50 | 70 | 85 | ~57% | Fruit, spring honey & pad biomass for feed |
+| **Moringa Leaf-Intensive Beds** (MLB) | **30 cm rows** in 1.2 m strips + 1.5 m lanes | **Intercropped** | 0 | 0 | 10* | 25* | ~n/a % | High-density leaf production within SAB intercrop zones |
+| **Integrated Infrastructure Zone** | Various structures | **10** | 10 | 10 | 10 | 10 | ~6% | Combined infrastructure including: |
+| — *Water Systems* | *Clustered facilities* | *4* | *4* | *4* | *4* | *4* | *~2.7%* | Well systems, storage tanks, filtration, distribution hubs |
+| — *Service & Residential* | *Central campus* | *3* | *3* | *3* | *3* | *3* | *~2%* | Roads, workshops, housing, equipment storage |
+| — *Compost & Processing* | *Yard layout* | *2* | *2* | *2* | *2* | *2* | *~1.3%* | Compost yards, honey processing, seed cleaning |
+| — *Apiary Support* | *Scattered stations* | *1* | *1* | *1* | *1* | *1* | *~0.7%* | Equipment storage, extraction facility, queen rearing |
 
 > **Planting Arrangements:**
 > - **SAB Intercropping:** Each 6 m space between Sidr/Acacia rows accommodates four 30 cm MLB strips (1.2 m total) plus 1.5 m lanes on each side, maintaining 1.8 m buffer from tree trunks
 > - **MSB Configuration:** Moringa seed trees in perimeter arranged in 4 × 4 m grid with E-W row orientation to maximize wind protection
 > - **CFB Layout:** Cactus rows run N-S (perpendicular to prevailing winds) to equalize solar exposure and reduce fruit sunburn
 > - **Infrastructure Integration:** All support facilities strategically positioned downwind (eastern portion) of production areas
+> 
+> *Note: MLB figures marked with asterisk represent intercropped area within SAB belts, not additional land area
+
+## Tree Inventory & Planting Density Calculations
+
+| Tree Type | Spacing | Trees per Feddan | Target Area (feddans) | Total Trees | Notes |
+|-----------|---------|------------------|----------------------|-------------|-------|
+| **Moringa Seed Trees (MSB)** | 4 × 4 m | 250 | 25 | 6,250 | Perimeter windbreak and expanded production area |
+| **Sidr (Ziziphus)** | 6 × 6 m | 111 | 20 | 2,220 | 2:1 ratio with Acacia in SAB |
+| **Acacia** | 6 × 6 m | 111 | 10 | 1,110 | 1:2 ratio with Sidr in SAB |
+| **Acacia (Integrated in CFB)** | **6 × 6 m** | **111** | **85** | **9,435** | Intercropped throughout entire CFB area at 6×6m spacing |
+| **Cactus (Opuntia)** | 2.5 × 1.5 m | 1,111 | 85 | 94,435 | N-S row orientation |
+| **Moringa Leaf (MLB)** | 30 cm rows | 13,333 plants/feddan | Intercropped in SAB | 66,665-99,998 | Intercropped between SAB tree rows (equivalent to 5-7.5 feddans) |
+
+### Calculation Methodology
+- **MSB**: 25 feddans × 250 trees/feddan = 6,250 trees
+- **SAB Total**: 30 feddans with 111 trees/feddan = 3,330 total trees
+  - **Sidr (67%)**: 2,220 trees
+  - **Acacia (33%)**: 1,110 trees
+- **CFB**: 85 feddans × 1,111 plants/feddan = 94,435 cactus plants
+- **CFB-integrated Acacia**: 85 feddans × 111 trees/feddan = 9,435 trees (intercropped within entire CFB area)
+- **MLB**: Intercropped in SAB (30 feddans) utilizing spaces between tree rows; equivalent production to 5-7.5 dedicated feddans
+
+### Land Area Verification
+- **Total Allocated Area**: 140-150 feddans (93-100% of 150 feddans) - MLB area not counted separately as it's intercropped
+- **Infrastructure & Support**: 10 feddans (≈6% of total)
+- **Buffer/Expansion Reserve**: 0-10 feddans
+- **Note on Intercropping**: Both CFB-integrated Acacia and MLB utilize the same land area as their host systems (intercropped), not additional land area
+
+### Establishment Timeline
+- **Year 1**: 15 feddans MSB (3,750 trees) + 30 feddans CFB (33,330 plants) + 15 feddans SAB (1,665 trees) + CFB-integrated Acacia begun (3,330 trees)
+- **Year 2**: Expand MSB to 20 feddans + expand CFB to 50 feddans + expand SAB to 25 feddans + CFB-integrated Acacia to 5,550 trees
+- **Year 3**: Expand MSB to 22 feddans + introduce MLB intercrops within SAB (equivalent to 10 feddans) + expand CFB to 70 feddans + CFB-integrated Acacia to 7,770 trees
+- **Year 4**: Expand MSB to 25 feddans + complete CFB to 85 feddans + finalize SAB to 30 feddans + complete CFB-integrated Acacia to 9,435 trees + expand MLB intercropping throughout entire SAB (equivalent to 25 feddans)
 
 **Development sequence:**
-> 1. **Year 1 (2026):** Establish core MSB, well infrastructure, first SAB belt (20 feddans), **accelerated CFB blocks (50 feddans)**, integrated infrastructure zone
-> 2. **Year 2 (2027):** Complete second SAB belt, expand CFB to 80 feddans, develop honey processing within existing infrastructure footprint
-> 3. **Year 3 (2028):** Introduce MLB as intercrops within mature SAB (first belt), expand CFB to 100 feddans, optimize infrastructure utilization
-> 4. **Year 4 (2029):** Complete CFB core (120 feddans), expand MLB intercropping to second SAB belt, maintain infrastructure within 6% total land area
+> 1. **Year 1 (2026):** Establish core MSB, well infrastructure, first SAB belt (15 feddans), **accelerated CFB blocks (30 feddans)**, integrated infrastructure zone
+> 2. **Year 2 (2027):** Complete second SAB belt, expand CFB to 50 feddans, develop honey processing within existing infrastructure footprint
+> 3. **Year 3 (2028):** Introduce MLB as intercrops within mature SAB (first belt), expand CFB to 70 feddans, optimize infrastructure utilization
+> 4. **Year 4 (2029):** Complete CFB core (85 feddans), expand MLB intercropping to second SAB belt, maintain infrastructure within 6% total land area
 
 **Infrastructure Optimization:** All infrastructure components are strategically consolidated to maintain the 6% maximum land allocation, with internal rebalancing as priorities shift from water systems in early years to processing facilities in later years.
 
@@ -51,108 +86,111 @@
 - **Begin well-drilling assessment** and secure permits for water extraction.
 - Secure irrigation hardware (mainlines, porous pipes) ready for January kickoff.
 - Order Sidr and Acacia seedlings for Y1 planting (first belt).
-- **Source 130,000 cactus pads** for accelerated Year 1 CFB establishment.
+- **Source 90,000 cactus pads** for accelerated Year 1 CFB establishment.
 - **Establish small pad nursery for early callusing operations.**
 - Order beekeeping equipment and arrange training for key staff.
 
 ---
 
-## Year 1 (2026) – Establish Core Systems: MSB, CFB & First SAB (≈90 Feddans)
+## Year 1 (2026) – Establish Core Systems: MSB, CFB & First SAB (≈70 Feddans)
 
 | Quarter          | MSB (Seed Trees)                                                | CFB                                                       | SAB (Sidr & Acacia)                                | Beekeeping                                     | Cattle & Feed                        | Infra & Labor                                             |
 | ---------------- | --------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------ | --------------------------------------------------------- |
-| **Q1 (Jan–Mar)** | Nursery sow 1 600 seeds → 1 200 transplants (20 feddans @3×5 m) | Collect & prepare cladodes, intensive callusing operation | Prepare NW belt site (≈20 feddans)                | **Beekeeper recruitment and training**         | Feed mixer & bins installed          | **Complete well drilling**; water trunk line; 7 permanent hires |
-| **Q2 (Apr–Jun)** | Transplant 1 200 seedlings                                      | **Transplant 65,000 cladodes** (≈25 feddans)              | –                                                  | **Equipment acquisition and site preparation** | Build first compost bays             | Storage & workshop complete; install well pumping system    |
-| **Q3 (Jul–Sep)** | Establishment care, first **light** leaf pruning (\~5 t fresh)  | Transplant additional 65,000 cladodes (≈25 feddans)       | Nursery preparation for 600 trees (400 Sidr, 200 Acacia) | **Apiary infrastructure setup, nectar assessment** | No cattle yet - focus on pad establishment | 4 seasonal planters; water distribution system expansion   |
-| **Q4 (Oct–Dec)** | Regular 45‑day leaf trims (≈10 t)                               | Establishment care; **set aside 5 feddans for propagation** | **Plant first NW Sidr-Acacia belt** (20 feddans)  | **Establish 2 training hives only** (no production) | Feed trials with MSB leaf only      | Seed‑cleaning unit installed; **install water buffer tank (100 m³)** |
+| **Q1 (Jan–Mar)** | Nursery sow 1 250 seeds → 900 transplants (15 feddans @3×5 m) | Collect & prepare cladodes, intensive callusing operation | Prepare NW belt site (≈15 feddans)                | **Beekeeper recruitment and training**         | Feed mixer & bins installed          | **Complete well drilling**; water trunk line; 6 permanent hires |
+| **Q2 (Apr–Jun)** | Transplant 900 seedlings                                      | **Transplant 45,000 cladodes** (≈15 feddans)              | –                                                  | **Equipment acquisition and site preparation** | Build first compost bays             | Storage & workshop complete; install well pumping system    |
+| **Q3 (Jul–Sep)** | Establishment care, first **light** leaf pruning (\~3 t fresh)  | Transplant additional 45,000 cladodes (≈15 feddans)       | Nursery preparation for 450 trees (300 Sidr, 150 Acacia) | **Apiary infrastructure setup, nectar assessment** | No cattle yet - focus on pad establishment | 3 seasonal planters; water distribution system expansion   |
+| **Q4 (Oct–Dec)** | Regular 45‑day leaf trims (≈7 t)                               | Establishment care; **set aside 3 feddans for propagation** | **Plant first NW Sidr-Acacia belt** (15 feddans)  | **Establish 2 training hives only** (no production) | Feed trials with MSB leaf only      | Seed‑cleaning unit installed; **install water buffer tank (80 m³)** |
 
-**Outcome Y1:** MSB fully rooted; first seed pods set (green). Accelerated CFB establishment (50 feddans). First Sidr-Acacia belt planted (20 feddans). Beekeeping infrastructure established with training hives only. No MLB yet. No cattle introduced.
+**Outcome Y1:** MSB fully rooted; first seed pods set (green). Accelerated CFB establishment (30 feddans). First Sidr-Acacia belt planted (15 feddans). Beekeeping infrastructure established with training hives only. No MLB yet. No cattle introduced.
 
 ---
 
-## Year 2 (2027) – Scale Core Components to 120 Feddans with Early Honey Production
+## Year 2 (2027) – Scale Core Components to 105 Feddans with Early Honey Production
 
 | Quarter          | MSB                                                          | CFB                                                | SAB                                               | Beekeeping                                          | Cattle & Feed                                            | Infra & Labor                           |
 | ---------------- | ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- | --------------------------------------- |
-| **Q1 (Jan–Mar)** | Harvest first mature pods (≈300 kg seed) → on‑farm seed bank | Add 15 feddans from propagation paddocks            | Establishment care (irrigation basins)            | **Deploy first 10-15 hives** with cactus flowering | Continue feed development and storage                    | Apiary infrastructure; compost bay #2    |
-| **Q2 (Apr–Jun)** | Ongoing leaf trims (≈12 t)                                   | Add 15 feddans; total 80 feddans CFB               | Prep second belt site (≈20-25 feddans)            | Intensive hive management during bloom peak        | **Introduce 3-5 cattle** for initial trials              | +3 labor (2 dedicated to apiary); **develop pad dehydrator prototype** |
-| **Q3 (Jul–Sep)** | Steady leaf supply                                           | First pad harvest year‑1 cactus (≈60 t trial harvest) | Nursery for second belt (400 Sidr, 200 Acacia); **setup poly-tunnel for improved Sidr propagation** | **Expand to 25-30 hives** for moringa nectar flow    | Implement balanced feed ration (MSB leaf + CFB pads)     | Dedicated honey processing facility     |
-| **Q4 (Oct–Dec)** | Seed set for next cycle (reserve)                            | Continued pad harvest (year‑1 cactus ≈50 t)         | **Plant second Sidr-Acacia belt** (20-25 feddans) | Process first small honey batch (150-200 kg); hive winterization | Maintain conservative stocking rate; feed trials continue | Add 5 workers end‑Q4; honey sales setup; **expand water buffer to 150 m³** |
+| **Q1 (Jan–Mar)** | Harvest first mature pods (≈200 kg seed) → on‑farm seed bank | Add 10 feddans from propagation paddocks            | Establishment care (irrigation basins)            | **Deploy first 8-10 hives** with cactus flowering | Continue feed development and storage                    | Apiary infrastructure; compost bay #2    |
+| **Q2 (Apr–Jun)** | Ongoing leaf trims (≈8 t)                                   | Add 10 feddans; total 50 feddans CFB               | Prep second belt site (≈10 feddans)            | Intensive hive management during bloom peak        | **Introduce 2-3 cattle** for initial trials              | +2 labor (1 dedicated to apiary); **develop pad dehydrator prototype** |
+| **Q3 (Jul–Sep)** | Steady leaf supply                                           | First pad harvest year‑1 cactus (≈35 t trial harvest) | Nursery for second belt (300 Sidr, 150 Acacia); **setup poly-tunnel for improved Sidr propagation** | **Expand to 15-20 hives** for moringa nectar flow    | Implement balanced feed ration (MSB leaf + CFB pads)     | Dedicated honey processing facility     |
+| **Q4 (Oct–Dec)** | Seed set for next cycle (reserve)                            | Continued pad harvest (year‑1 cactus ≈30 t)         | **Plant second Sidr-Acacia belt** (10 feddans) | Process first small honey batch (80-120 kg); hive winterization | Maintain conservative stocking rate; feed trials continue | Add 3 workers end‑Q4; honey sales setup; **expand water buffer to 100 m³** |
 
-**Outcome Y2:** Both Sidr-Acacia belts established (40-45 feddans total). CFB expanded to 80 feddans. First beehives introduced timed with cactus and moringa flowering. Initial small-scale honey production. Minimal cattle introduction (3-5 head) to build feed reserves.
+**Outcome Y2:** Both Sidr-Acacia belts established (25 feddans total). CFB expanded to 50 feddans. First beehives introduced timed with cactus and moringa flowering. Initial small-scale honey production. Minimal cattle introduction (2-3 head) to build feed reserves.
 
 ---
 
 ## Year 3 (2028) – Expand Beekeeping & Introduce MLB in Mature SAB
 
-| Quarter          | MSB                                              | MLB                                                                 | CFB                                           | SAB                                                           | Beekeeping                                                        | Cattle & Feed                      | Infra & Labor                   |
-| ---------------- | ------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------- | ------------------------------- |
-| **Q1 (Jan–Mar)** | Maintenance pruning; harvest mature pods (≈800 kg)  | Nursery sow 1 000 trays for first MLB intercrop                     | Add 10 feddans (total 90 f)                   | First belt maintenance; canopy development                     | **Scale to 40-45 hives**; position for peak cactus bloom          | **Increase to 10-12 cattle**      | Expand apiary infrastructure; **complete pad dehydrator setup**    |
-| **Q2 (Apr–Jun)** | Ongoing leaf production (≈15 t)                   | **Transplant first MLB into mature SAB** (≈15 feddans, 4-row system) | Add 10 feddans (total 100 f)                  | Second belt establishment care                                 | Colony splitting; boost pollination across farm                    | Feed mixer upgrade; **test dehydrated pad feeding** | +4 labor (2 for beekeeping)     |
-| **Q3 (Jul–Sep)** | Seed production focus                            | First MLB harvest trials (≈8 t)                                 | Substantial pad harvest (≈80 t)               | **Begin intercropping preparation** in first belt between rows | **First commercial honey harvest** (≈600 kg, mostly cactus)  | Scale up dehydrated pad production  | Build advanced honey processing |
-| **Q4 (Oct–Dec)** | Reserve seed for Year 4                          | Refine MLB harvest protocols                                         | Continue pad harvest rotation (≈60 t)         | **First significant Sidr bloom**                              | **Deploy 10-15 hives for Sidr trial**; total 50-60 hives          | **Scale to 15 head maximum**      | Honey marketing infrastructure; **expand water buffer to 200 m³**  |
+| Quarter          | MSB                                              | SAB with MLB Intercropping                                           | CFB                                           | Beekeeping                                                        | Cattle & Feed                      | Infra & Labor                   |
+| ---------------- | ------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------- | ------------------------------- |
+| **Q1 (Jan–Mar)** | Maintenance pruning; harvest mature pods (≈500 kg); expand MSB by 1 feddans  | First belt maintenance; canopy development; nursery sow 700 trays for MLB intercrop | Add 10 feddans (total 60 f)                   | **Scale to 25-30 hives**; position for peak cactus bloom          | **Increase to 6-8 cattle**      | Expand apiary infrastructure; **complete pad dehydrator setup**    |
+| **Q2 (Apr–Jun)** | Ongoing leaf production (≈10 t); expand MSB by 1 feddans                  | **Transplant first MLB into mature SAB** (4-row system between tree rows); second belt establishment care | Add 10 feddans (total 70 f)                  | Colony splitting; boost pollination across farm                    | Feed mixer upgrade; **test dehydrated pad feeding** | +3 labor (1 for beekeeping)     |
+| **Q3 (Jul–Sep)** | Seed production focus                            | First MLB harvest trials (≈6 t from intercropped system)              | Substantial pad harvest (≈55 t)               | **First commercial honey harvest** (≈400 kg, mostly cactus)  | Scale up dehydrated pad production  | Build advanced honey processing |
+| **Q4 (Oct–Dec)** | Reserve seed for Year 4                          | Refine MLB harvest protocols; **first significant Sidr bloom**         | Continue pad harvest rotation (≈45 t)         | **Deploy 5-10 hives for Sidr trial**; total 30-40 hives          | **Scale to 10 head maximum**      | Honey marketing infrastructure; **expand water buffer to 150 m³**  |
 
-**Outcome Y3:** MLB introduced as intercrops within mature SAB (first belt); CFB expanded to 100 feddans; first commercial honey production; first Sidr nectar trial. Cattle herd carefully scaled to match feed production (15 head).
+**Outcome Y3:** MLB introduced as intercrops within mature SAB (first belt); MSB expanded to 22 feddans; CFB expanded to 70 feddans; first commercial honey production; first Sidr nectar trial. Cattle herd carefully scaled to match feed production (10 head).
 
 ---
 
 ## Year 4 (2029) – Honey Production Optimization & System Integration
 
-- **Beekeeping:** Optimize to 70-80 hives with proven nectar flows; implement rotation protocol; target ≈1.5 t honey (cactus + moringa). Premium Sidr honey is scheduled for Year 6 (2031) once the Sidr belts reach full flowering.
-- **MSB:** Maintenance and continued seed production for MLB expansion.
-- **MLB:** Expand intercrops to second SAB belt (additional 20 feddans); optimize leaf production for honey quality over quantity.
-- **CFB:** Complete core planting (total 120 feddans); manage for optimal pollen/nectar production alongside fruit.
+- **Beekeeping:** Optimize to 50-60 hives with proven nectar flows; implement rotation protocol; target ≈1.0 t honey (cactus + moringa). Premium Sidr honey is scheduled for Year 6 (2031) once the Sidr belts reach full flowering.
+- **MSB:** Maintenance and continued seed production; expand to 25 feddans for increased leaf production.
+- **MLB:** Expand intercrops to second SAB belt (equivalent to 25 feddans total); optimize leaf production for honey quality over quantity.
+- **CFB:** Complete core planting (total 85 feddans); manage for optimal pollen/nectar production alongside fruit.
 - **SAB:** Both belts established; complete leaf-moringa intercrops; significant Sidr bloom in both belts.
-- **Cattle Herd:** Increase to 25-30 head based on demonstrated feed production; enhance feeding with dehydrated pads to improve DM content.
+- **Cattle Herd:** Increase to 18-22 head based on demonstrated feed production; enhance feeding with dehydrated pads to improve DM content.
 - **Composting:** All manure + pruned cactus + Acacia leaf litter + residues return to soil.
 - **Energy:** Begin biodiesel processing from MSB seeds; delay full ethanol production to Year 6.
 - **Honey Processing:** Establish dedicated facility for extraction, filtration, packaging and specialized monofloral certification.
-- **Water Management:** Complete water use efficiency audit; maintain 200 m³ buffer capacity (5% of monthly extraction).
+- **Water Management:** Complete water use efficiency audit; maintain 150 m³ buffer capacity (5% of monthly extraction).
 
-**Outcome Y4:** Honey production fully optimized with cactus and moringa monofloral products; Sidr honey trials expanded; cattle operations scaled to match feed production capacity (25-30 head).
+**Outcome Y4:** Honey production fully optimized with cactus and moringa monofloral products; Sidr honey trials expanded; cattle operations scaled to match feed production capacity (18-22 head).
 
 ---
 ## Expected Harvest Volumes by Year
 
 | Product | Unit | Year 1 (2026) | Year 2 (2027) | Year 3 (2028) | Year 4 (2029) | Notes |
 |---------|------|---------------|---------------|---------------|---------------|-------|
-| **Moringa Leaf (MSB)** | Fresh t | 15 | 40 | 60 | 70 | Initial light pruning in Y1-Q3; full 45-day harvest cycle by Y2 |
-| **Moringa Leaf (MLB)** | Fresh t | 0 | 0 | 24 | 90 | First MLB intercrops established Y3-Q2 in mature SAB (15 feddans); expanded to 35 feddans by Y4 |
-| **Moringa Seeds** | kg | 0 | 300 | 800 | 1,600 | First mature pods in Y2-Q1; full production by Y3 |
-| **Moringa Oil** | L | 0 | 90 | 240 | 480 | ~30% oil extraction rate from seeds; processing begins Y2-Q4 |
-| **Cactus Pads (CFB)** | Fresh t | 0 | 110 | 140 | 210 | Year 1 establishment only; first significant harvest in Y2-Q3 from 50 feddans |
-| **Cactus Fruit** | t | 0 | 25 | 80 | 150 | First fruit production Y2-Q3; full production from mature plants (100+ feddans) by Y4 |
-| **Sidr Honey** | kg | 0 | 0 | 40 | 60 | First trial Sidr hives in Y3-Q4; limited production in Y4; premium production from Y6 |
-| **Cactus Honey** | kg | 0 | 120 | 400 | 900 | First small harvest Y2-Q4; commercial production from Y3 |
-| **Moringa Honey** | kg | 0 | 80 | 200 | 600 | Begins Y2-Q3; increases with MLB expansion and hive count |
-| **Dehydrated Cactus Pads** | DM t | 0 | 0 | 14 | 25 | Begins Y3 after dehydrator installation; increases pad DM% from 10% to 20% |
+| **Moringa Leaf (MSB)** | Fresh t | 10 | 32 | 45 | 65 | Initial light pruning in Y1-Q3; full 45-day harvest cycle by Y2; increased area in Y3-Y4 |
+| **Moringa Leaf (MLB)** | Fresh t | 0 | 0 | 18 | 60 | MLB intercrops established Y3-Q2 in mature SAB (first belt); expanded to entire SAB by Y4 |
+| **Moringa Seeds** | kg | 0 | 620 | 1,980 | 3,750 | First pods Y2-Q1 (1,750 trees × 0.36 kg); Y3 (3,300 trees × 0.6 kg); Y4 (4,500 trees × 0.84 kg) |
+| **Moringa Oil** | L | 0 | 185 | 590 | 1,125 | ~30% oil extraction rate from seeds; processing begins Y2-Q4 |
+| **Cactus Pads (CFB)** | Fresh t | 0 | 70 | 100 | 150 | Year 1 establishment only; first significant harvest in Y2-Q3 from 30 feddans |
+| **Cactus Fruit** | t | 0 | 16 | 55 | 105 | First fruit production Y2-Q3; full production from mature plants (70+ feddans) by Y4 |
+| **Sidr Honey** | kg | 0 | 0 | 30 | 45 | First trial Sidr hives in Y3-Q4; limited production in Y4; premium production from Y6 |
+| **Cactus Honey** | kg | 0 | 80 | 270 | 600 | First small harvest Y2-Q4; commercial production from Y3 |
+| **Moringa Honey** | kg | 0 | 60 | 150 | 400 | Begins Y2-Q3; increases with MLB expansion and hive count |
+| **Dehydrated Cactus Pads** | DM t | 0 | 0 | 10 | 18 | Begins Y3 after dehydrator installation; increases pad DM% from 10% to 20% |
 
 > **Calculation Basis:**
-> - **MSB Leaf:** 20 feddans × ~0.75 t/feddan in Y1 (establishment only); 2 t/feddan in Y2; 3 t/feddan in Y3-4
-> - **MLB Leaf:** 15 feddans × ~1.6 t/feddan in Y3 (partial year); 35 feddans × ~2.6 t/feddan in Y4
-> - **Cactus Pads:** 50 feddans × ~2.2 t/feddan in Y2; 100 feddans × ~1.4 t/feddan in Y3; 120 feddans × ~1.8 t/feddan in Y4
-> - **Cactus Fruit:** 50 feddans × ~0.5 t/feddan in Y2; 100 feddans × ~0.8 t/feddan in Y3; 120 feddans × ~1.25 t/feddan in Y4
+> - **MSB Leaf:** 15 feddans × ~0.75 t/feddan in Y1 (establishment only); 20 feddans × ~1.6 t/feddan in Y2; 22 feddans × ~2 t/feddan in Y3; 25 feddans × ~2.6 t/feddan in Y4
+> - **MLB Leaf:** Intercropped in SAB (first belt only) × ~1.6 t/feddan in Y3 (partial year); Intercropped throughout SAB × ~2.4 t/feddan in Y4
+> - **MSB Seeds:** Per-tree yield increases with maturity and beekeeping integration: 0.36 kg/tree in Y2, 0.6 kg/tree in Y3, 0.84 kg/tree in Y4 (beekeeping provides ~20% yield boost through improved pollination)
+> - **Moringa Oil:** 30% extraction rate from dried seeds after MLB planting allocation (80-160 kg/yr reserved for MLB intercropping)
+> - **Allocation Strategy:** Total seed harvest → MLB propagation needs (with 60% buffer) → seed bank reserves → oil production
+> - **Cactus Pads:** 30 feddans × ~2.3 t/feddan in Y2; 70 feddans × ~1.4 t/feddan in Y3; 85 feddans × ~1.8 t/feddan in Y4
+> - **Cactus Fruit:** 30 feddans × ~0.53 t/feddan in Y2; 70 feddans × ~0.8 t/feddan in Y3; 85 feddans × ~1.24 t/feddan in Y4
 > - **Honey:** Based on hive productivity of ~15-20 kg/hive/year across all floral sources; limited in early years during establishment
-> - **Feed DM (Y4):** 210 t fresh pads (21 t DM @ 10%) + 25 t dehydrated pads (24 t DM @ ~95%) + 160 t fresh moringa leaf (32 t DM @ 20%) = 77 t DM total, sufficient for ~30 cattle at 7 kg DM/hd·d
+> - **Feed DM (Y4):** 150 t fresh pads (15 t DM @ 10%) + 18 t dehydrated pads (17 t DM @ ~95%) + 125 t fresh moringa leaf (25 t DM @ 20%) = 57 t DM total, sufficient for ~22 cattle at 7 kg DM/hd·d
 
 ## Key Plant Species & Their Roles
 
 ### Moringa (Moringa oleifera)
 **System importance:** Primary multi-function species providing feed, oil, and nectar.
-- **Revenue streams:** High-value oil (≈7,000 L/yr), protein-rich press-cake (4.5 t/yr), summer honey.
+- **Revenue streams:** High-value oil (≈5,000 L/yr), protein-rich press-cake (3.2 t/yr), summer honey.
 - **Feed value:** 25-30% protein DM, excellent amino acid profile, high vitamin content.
 - **Risks:** Frost sensitive; requires irrigation management; susceptible to aphids during stress periods.
 - **Management strategy:** Dual cultivation approach (MSB for seeds, MLB for leaf production) maximizes utility while providing system redundancy.
 
 ### Cactus Fig (Opuntia ficus-indica)
 **System importance:** Core production species providing fruit, fodder, and water storage.
-- **Revenue streams:** Primary cash crop (600-900 t fruit/yr), spring honey.
+- **Revenue streams:** Primary cash crop (425-500 t fruit/yr), spring honey.
 - **Feed value:** Low protein (4-6%) but high energy and water content; excellent drought buffer.
 - **Risks:** Susceptible to cochineal insects; fruit quality affected by humidity at ripening.
 - **Management strategy:** North-south row orientation maximizes light interception; scheduled pad harvesting maintains plant vigor and feed quality.
 ### Sidr (Ziziphus spina-christi)
 **System importance:** Deep-rooted native tree providing premium honey, shade, and soil improvement.
-- **Revenue streams:** Premium "3assal Sidr" honey (300-400 kg/yr), highest value product per unit.
+- **Revenue streams:** Premium "3assal Sidr" honey (200-250 kg/yr), highest value product per unit.
 - **Ecological value:** Drought-resistant native species; supports beneficial insects; deep root system accesses subsurface moisture.
 - **Risks:** Slow establishment; requires protection during early growth.
 - **Management strategy:** Strategic placement in belts; 2:1 ratio with Acacia for nitrogen balance; prunings provide valuable biochar feedstock.
@@ -245,6 +283,51 @@ The plant selection creates complementary seasonal production cycles, diversifie
 
 > **Note:** First-year focus is exclusively on establishment and plant health. Premature harvesting of propagation material would compromise system development. Expansion timeline adjusted to biological realities of tree maturation cycles.
 
+## MSB Seed Allocation Strategy
+
+### Seed Production & Allocation by Year
+
+| Year | Total MSB Seeds | MLB Planting Needs* | Available for Oil | Oil Production (30%) |
+|------|-----------------|---------------------|-------------------|----------------------|
+| 2026 | 0 kg            | 0 kg                | 0 kg              | 0 L                  |
+| 2027 | 880 kg          | 120 kg              | 760 kg            | 228 L → 240-265 L    |
+| 2028 | 2,970 kg        | 180 kg              | 2,790 kg          | 837 L → 850-890 L    |
+| 2029 | 6,250 kg        | 240 kg              | 6,010 kg          | 1,803 L → 1,800-1,875 L |
+
+*MLB planting needs calculation based on SAB intercropping requirements:*
+- **Year 2 (2027):** Planning for 15 feddan-equivalent MLB intercropping in Year 3
+  - 15 feddans × 13,333 plants/feddan = 200,000 plants needed
+  - At 80% germination rate: 200,000 ÷ 0.8 = 250,000 seeds required
+  - Average moringa seed weight: 0.3 g/seed → 250,000 × 0.3g = 75 kg
+  - +60% buffer for replacements and failures: 75 kg × 1.6 = 120 kg
+- **Year 3 (2028):** Additional 20 feddan-equivalent MLB intercropping expansion
+  - Similar calculations yield 180 kg seed requirement
+- **Year 4 (2029):** Final 15 feddan-equivalent MLB intercropping to complete system
+  - Similar calculations yield 240 kg seed requirement
+
+### Key Management Protocols
+
+**Propagation Buffer Management:**
+- 60% seed buffer maintained to account for:
+  - Germination rate variations (80-95% depending on seed quality)
+  - Seedling mortality in harsh intercrop conditions
+  - Replacement needs for MLB plant turnover
+  - Emergency replanting requirements
+
+**Oil Production Optimization:**
+- Extraction efficiency increases progressively:
+  - Year 2: 30% extraction (baseline)
+  - Year 3: 30-32% extraction (improved techniques)
+  - Year 4: 32-35% extraction (optimized processing)
+- Beekeeping integration provides 20-25% yield boost through improved pollination
+
+**Seed Banking Strategy:**
+- Maintain 2-year seed stock for emergency replanting
+- Excess buffer seeds from previous years cycled into oil production after 24 months
+- Seed quality monitored quarterly with germination tests
+- Climate-controlled storage maintains viability (seed moisture <10%, temperature <20°C)
+
+This integrated approach ensures system resilience while maximizing biodiesel feedstock availability, with buffer seed allocation providing both operational security and flexibility in production targets.
 
 
 ## Biochar Production & Land‑Expansion Loop
@@ -253,12 +336,13 @@ The plant selection creates complementary seasonal production cycles, diversifie
 
 | Feedstock (dry) | Year 1 | Year 2 | Year 3+ | Pyrolysis note | Biochar yield (Y3+) |
 |-----------------|--------|---------|---------|----------------|---------------------|
-| Cactus pad trimmings | 0 t | 3 t | 8 t | Rotary drum, 400 °C | ~2 t |
-| Acacia & Sidr prunings | 0 t | 2 t | 10 t | Batch retort, 450 °C | ~2.5 t |
-| Spoiled moringa press‑cake + leaf litter | 0 t | 1 t | 5 t | Mixed with woody feedstock | ~1 t |
-| **Total** | **0 t** | **6 t** | **23 t** |  | **≈ 5.5 t biochar yr⁻¹** |
+| Cactus pad trimmings | 0 t | 2 t | 5 t | Rotary drum, 400 °C | ~1.3 t |
+| Acacia & Sidr prunings (SAB) | 0 t | 1 t | 4 t | Batch retort, 450 °C | ~1 t |
+| Acacia prunings (CFB-integrated) | 0 t | 3 t | 28 t | Batch retort, 450 °C | ~7 t |
+| Spoiled moringa press‑cake + leaf litter | 0 t | 0.7 t | 3 t | Mixed with woody feedstock | ~0.7 t |
+| **Total** | **0 t** | **6.7 t** | **40 t** |  | **≈ 10 t biochar yr⁻¹** |
 
-> Note: Reduced cactus pad usage allows prioritization for propagation. Increased woody biomass from maturing trees compensates for biochar production targets.
+> Note: Reduced cactus pad usage allows prioritization for propagation. The much higher volume of woody biomass from the extensive CFB-integrated Acacia system (9,435 trees by Year 4) provides significant feedstock for biochar production.
 
 **Application.** Incorporate 3 t feddan⁻¹ with compost into new cactus or tree expansion plots; priority = marginal corners and newly ripped beds.
 
@@ -270,7 +354,7 @@ The plant selection creates complementary seasonal production cycles, diversifie
 - 2 × 3 m³ retort kilns (batch mode)
 - 1 × continuous feed rotary kiln (200 kg/h capacity)
 - Syngas recovery for thermal integration
-- Annual capacity: 150 t feedstock → 37.5 t biochar
+- Annual capacity: 100 t feedstock → 25 t biochar
 
 ### Quarterly Production Plan
 | Quarter | Feedstock Source | Processing Volume (t) | Biochar Production (t) | Application Focus |
@@ -278,15 +362,15 @@ The plant selection creates complementary seasonal production cycles, diversifie
 | Y1 Q1   | None (setup)     | 0                    | 0                      | N/A               |
 | Y1 Q2   | None (setup)     | 0                    | 0                      | N/A               |
 | Y1 Q3   | None (setup)     | 0                    | 0                      | N/A               |
-| Y1 Q4   | MSB trimmings    | 3.2                  | 0.8                    | Test plots        |
-| Y2 Q1   | MSB + SAB        | 4.8                  | 1.2                    | New cactus beds   |
-| Y2 Q2   | Mixed residues   | 8.4                  | 2.1                    | Tree line expansion |
-| Y2 Q3   | SAB + MLB        | 9.6                  | 2.4                    | Marginal soil areas |
-| Y2 Q4   | All sources      | 12.4                 | 3.1                    | New MLB beds      |
-| Y3 Q1   | MSB + SAB        | 18.0                 | 4.5                    | Expansion plots   |
-| Y3 Q2   | MLB + woody waste| 19.2                 | 4.8                    | Soil remediation  |
-| Y3 Q3   | Mixed residues   | 20.0                 | 5.0                    | New tree lines    |
-| Y3 Q4   | All sources      | 20.8                 | 5.2                    | Degraded corners  |
+| Y1 Q4   | None             | 0                    | 0                      | N/A               |
+| Y2 Q1   | None             | 0                    | 0                      | N/A               |
+| Y2 Q2   | Mixed (SAB + CFB Acacia) | 2.5            | 0.6                    | Test plots        |
+| Y2 Q3   | Mixed (SAB + CFB Acacia) | 3.5            | 0.9                    | Marginal soil areas |
+| Y2 Q4   | Mixed (SAB + CFB Acacia) | 4.5            | 1.1                    | Tree line expansion |
+| Y3 Q1   | Mixed (SAB + CFB Acacia) | 12.0           | 3.0                    | Expansion plots   |
+| Y3 Q2   | Mixed (SAB + CFB Acacia) | 15.0           | 3.8                    | Soil remediation  |
+| Y3 Q3   | Mixed (SAB + CFB Acacia) | 15.0           | 3.8                    | New tree lines    |
+| Y3 Q4   | Mixed (SAB + CFB Acacia) | 17.0           | 4.3                    | Degraded corners  |
 
 **Quarterly Harvest Schedule (MSB - Moringa Seed Belt)**
 
@@ -295,11 +379,11 @@ The plant selection creates complementary seasonal production cycles, diversifie
 | Y1 Q1-Q4 | No harvest (establishment) | 0 | N/A | N/A |
 | Y2 Q1   | Light pruning | 2.5 t fresh | Mulch/compost | Soil amendment |
 | Y2 Q2   | Seed pod collection | 0.3 t | Manual processing | Propagation |
-| Y2 Q3   | Maintenance pruning | 3.0 t fresh | Biochar/compost | Soil amendment |
+| Y2 Q3   | Maintenance pruning | 3.0 t fresh | Mulch/compost | Soil amendment |
 | Y2 Q4   | Seed pod collection | 0.8 t | Manual processing | Propagation/oil |
-| Y3 Q1   | Structural pruning | 5.0 t fresh | Biochar/compost | Soil amendment |
+| Y3 Q1   | Structural pruning | 5.0 t fresh | Mulch/compost | Soil amendment |
 | Y3 Q2   | Seed pod collection | 1.5 t | Processing | Propagation/oil |
-| Y3 Q3   | Maintenance pruning | 6.0 t fresh | Biochar/compost | Soil amendment |
+| Y3 Q3   | Maintenance pruning | 6.0 t fresh | Mulch/compost | Soil amendment |
 | Y3 Q4   | Seed pod collection | 2.5 t | Processing | Oil production |
 
 **Quarterly Harvest Schedule (SAB - Sidr-Acacia Belt)**
@@ -308,12 +392,26 @@ The plant selection creates complementary seasonal production cycles, diversifie
 |---------|----------|--------|------------|---------|
 | Y1 Q1-Q4 | No harvest (establishment) | 0 | N/A | N/A |
 | Y2 Q1-Q2 | No harvest (development) | 0 | N/A | N/A |
-| Y2 Q3   | Light pruning | 1.5 t fresh | Mulch/compost | Soil amendment |
+| Y2 Q3   | Light pruning | 1.0 t fresh | Biochar/compost | Soil amendment |
 | Y2 Q4   | Sidr flower/nectar | Minimal | Bee forage | Honey production |
-| Y3 Q1   | Structural pruning | 3.0 t fresh | Biochar/compost | Soil amendment |
+| Y3 Q1   | Structural pruning | 2.5 t fresh | Biochar/compost | Soil amendment |
 | Y3 Q2   | Acacia pod collection | 0.2 t | Manual processing | Propagation |
-| Y3 Q3   | Maintenance pruning | 4.0 t fresh | Biochar/compost | Soil amendment |
+| Y3 Q3   | Maintenance pruning | 3.5 t fresh | Biochar/compost | Soil amendment |
 | Y3 Q4   | Sidr flower/nectar | Moderate | Bee forage | Premium honey |
+
+**Quarterly Harvest Schedule (CFB - Cactus Fodder Belt with Acacia)**
+
+| Quarter | Activity | Volume | Processing | End Use |
+|---------|----------|--------|------------|---------|
+| Y1 Q1-Q4 | No harvest (establishment) | 0 | N/A | N/A |
+| Y2 Q1   | No harvest (development) | 0 | N/A | N/A |
+| Y2 Q2   | CFB-integrated Acacia light pruning | 3.0 t fresh | Biochar | Soil amendment |
+| Y2 Q3   | CFB-integrated Acacia maintenance | 4.0 t fresh | Biochar | Soil amendment |
+| Y2 Q4   | CFB-integrated Acacia pod collection | 1.0 t | Manual processing | Propagation |
+| Y3 Q1   | CFB-integrated Acacia structural pruning | 10.0 t fresh | Biochar | Soil amendment |
+| Y3 Q2   | CFB-integrated Acacia maintenance | 12.0 t fresh | Biochar | Soil amendment |
+| Y3 Q3   | CFB-integrated Acacia maintenance | 15.0 t fresh | Biochar | Soil amendment |
+| Y3 Q4   | CFB-integrated Acacia pod collection | 3.0 t | Manual processing | Propagation |
 
 **Quarterly Harvest Schedule (MLB - Moringa Leaf Belt)**
 
@@ -331,22 +429,36 @@ The plant selection creates complementary seasonal production cycles, diversifie
 
 | Quarter | Feedstock Source | Biochar Yield (t) | CO₂e Sequestration* | Carbon Credits** |
 |---------|------------------|-------------------|---------------------|------------------|
-| Y1 Q4   | Acacia prunings  | 0.8               | 2.4 t               | 3.6              |
-| Y2 Q1   | MSB trimmings    | 1.2               | 3.6 t               | 5.4              |
-| Y2 Q2   | CFB pads + MLB   | 2.1               | 6.3 t               | 9.5              |
-| Y2 Q3   | SAB litter       | 2.4               | 7.2 t               | 10.8             |
-| Y2 Q4   | Mixed residues   | 3.1               | 9.3 t               | 14.0             |
-| Y3+ Q   | All sources      | 4.5-5.2           | 13.5-15.6 t         | 20.3-23.4        |
+| Y1 Q4   | None             | 0                 | 0                   | 0                |
+| Y2 Q1   | None             | 0                 | 0                   | 0                |
+| Y2 Q2   | Mixed (SAB + CFB Acacia) | 0.6       | 1.8 t               | 2.7              |
+| Y2 Q3   | Mixed (SAB + CFB Acacia) | 0.9       | 2.7 t               | 4.1              |
+| Y2 Q4   | Mixed (SAB + CFB Acacia) | 1.1       | 3.3 t               | 5.0              |
+| Y3 Q1   | Mixed (SAB + CFB Acacia) | 3.0       | 9.0 t               | 13.5             |
+| Y3 Q2   | Mixed (SAB + CFB Acacia) | 3.8       | 11.4 t              | 17.1             |
+| Y3 Q3   | Mixed (SAB + CFB Acacia) | 3.8       | 11.4 t              | 17.1             |
+| Y3 Q4   | Mixed (SAB + CFB Acacia) | 4.3       | 12.9 t              | 19.4             |
+| Y4+ Q   | Mixed (All Sources) | 4.5-5.0       | 13.5-15.0 t         | 20.3-22.5        |
 
 *Using 3 t CO₂e sequestration per t biochar (IPCC methodology)
 **Carbon credits calculated @ 1.5× multiplier for agricultural co-benefits (Puro.earth standard)
 
+### Annual Carbon Credit Summary
+| Year | Biochar Production (t) | CO₂e Sequestration (t) | Carbon Credits | Estimated Value*** |
+|------|------------------------|------------------------|----------------|-------------------|
+| Y1   | 0                      | 0                      | 0              | $0                |
+| Y2   | 1.8                    | 5.4                    | 8.1            | $405              |
+| Y3   | 10.2                   | 30.6                   | 45.9           | $2,295            |
+| Y4   | 12.5                   | 37.5                   | 56.3           | $2,815            |
+| Y5+  | 14.0                   | 42.0                   | 63.0           | $3,150            |
+
+***Based on conservative carbon credit value of $50/credit
+
 ### Implementation Timeline
 - Y1 Q4: Install 1 retort kiln + basic syngas system
-- Y2 Q2: Add rotary kiln + feedstock prep area
+- Y2 Q2: Add batch retort for woody feedstock
 - Y3 Q1: Full certification (Puro.earth/Biochar Gold Standard)
 - Y4 Q3: Achieve carbon-negative operation status
-
 
 
 ### Key Additions to Risk Analysis
@@ -361,12 +473,47 @@ The plant selection creates complementary seasonal production cycles, diversifie
 This integrates with existing composting and nutrient cycling plans while creating new revenue through carbon markets. Requires adding 0.5 feddan processing area and 2 dedicated staff from Y2 Q2 onward.
 
 ---
+## Biodiesel Production & Carbon Credits
 
-## Mechanical Harvest Module (MLB)
+| Year | Moringa Seed (t) | Biodiesel Output (L) | Farm Equipment Coverage | Carbon Credits* |
+|------|------------------|----------------------|-------------------------|-----------------|
+| 2026 | 0.15             | 30-45                | Testing only            | 0.1             |
+| 2027 | 0.62             | 185-200              | 10% of operations       | 0.4             |
+| 2028 | 1.98             | 590-610              | 30% of operations       | 1.2             |
+| 2029 | 3.75             | 1,125-1,200          | 60% of operations       | 2.4             |
+| 2030 | 5.50             | 1,650-1,750          | 85% of operations       | 3.5             |
 
-*Goes live once leaf‑moringa beds >15 feddans (target 2028).*
+*Carbon credits calculated using 2.0 kg CO₂e offset per liter of fossil diesel replaced (based on lifecycle assessment)
 
-* **Lane geometry:** 1.5 m left + 1.2 m cutting strip + 1.5 m right lane.
+### Implementation Timeline
+- Y1 Q4: Install small-scale press and basic processing equipment
+- Y2 Q2: Establish quality testing protocols and storage systems
+- Y3 Q1: Scale up to semi-industrial processing capacity
+- Y4 Q2: Complete certification for carbon credit validation
+
+### Key Considerations
+- **Oil Extraction Rate:** 20-30% from dried moringa seeds
+- **Conversion Efficiency:** 85-90% of oil to biodiesel
+- **Quality Control:** Regular testing for cetane number, viscosity, and cloud point
+- **Storage Protocol:** Climate-controlled tanks with 3-month capacity
+- **Carbon Methodology:** Verified Carbon Standard (VCS) methodology VM0025
+
+### Risk Mitigation
+| Risk | Mitigation Strategy |
+|------|---------------------|
+| Seed yield variability | Maintain 25% buffer stock |
+| Processing equipment failure | Redundant critical components |
+| Quality inconsistency | Batch testing and blending protocols |
+| Carbon market volatility | Diversify credit buyers, 30% forward contracts |
+
+This biodiesel production plan integrates with the expanded moringa cultivation schedule and provides both operational self-sufficiency and additional carbon credit revenue streams by Year 4.
+
+
+## Mechanical Harvest Module (MLB in SAB Intercrop)
+
+*Goes live once MLB intercropping within SAB belts covers >15 feddans-equivalent area (target 2028).*
+
+* **Lane geometry:** 1.5 m left + 1.2 m cutting strip + 1.5 m right lane (fits between SAB tree rows).
 * **Hardware:** Two electric flat‑deck carts (<1.2 m wide) with shared 1.2 m sickle‑bar suspended on telescopic arms.
 * **Catcher:** Raised nylon "hammock" net 25 cm above soil – clears 15 cm stumps.
 * **Through‑put:** 5 feddans day⁻¹ per two‑person crew (8 h).
@@ -377,12 +524,12 @@ This integrates with existing composting and nutrient cycling plans while creati
 
 | Source | Annual volume | C : N role |
 |--------|---------------|-----------|
-| Cattle manure (60 hd) | 200 t fresh ≈ 85 t DM | N & microbes |
-| Acacia leaf litter | 15 t | Carbon, slow N |
-| Moringa press‑cake | 5 t | High N |
-| Biochar fines | 3 t | Structure, adsorption |
+| Cattle manure (30 hd) | 100 t fresh ≈ 42 t DM | N & microbes |
+| Acacia leaf litter | 10 t | Carbon, slow N |
+| Moringa press‑cake | 3.2 t | High N |
+| Biochar fines | 2 t | Structure, adsorption |
 
-**Compost plan.** Static piles, 30 m windrow, turn every 10 days.  
+**Compost plan.** Static piles, 20 m windrow, turn every 10 days.  
 Apply **3 t feddan⁻¹** to MLB beds **after every 3rd harvest** (~April & Oct). Spot‑dress MSB and SAB basins at 1 t feddan⁻¹ each winter.
 
 ---
@@ -505,12 +652,35 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 
 ## Seed‑to‑Field Pipeline (MLB in SAB Intercrop)
 
-1. **MSB Pods** → shell, dry @<10 % moisture.
-2. **Nursery:** 1 seed/plug; 6 weeks to transplant.
-3. **Field:**
-   - **Year 3+:** Four 30 cm MLB rows (forming 1.2 m strips) with 1.5 m harvest lanes between SAB tree rows
+1. **MSB Production & Seed Collection:**
+   - Mature pods hand-collected before natural splitting
+   - Dried on mesh racks in dedicated drying facility
+   - Seeds manually extracted, cleaned, and graded
+
+2. **Seed Allocation Priority:**
+   - First tier: MLB intercropping needs (120-240 kg/yr)
+   - Second tier: Seed banking for system resilience (2-year reserve)
+   - Third tier: Oil production for biodiesel
+
+3. **MLB Nursery Process:**
+   - 1 seed/plug in specialized trays; 80-95% germination rate
+   - 6-week growing period before field-ready
+   - Hardening period of 7-10 days before transplanting
+
+4. **Field Layout:**
+   - **SAB Intercropping Only:** Four 30 cm MLB rows (forming 1.2 m strips) with 1.5 m harvest lanes between SAB tree rows
    - **Spacing:** MLB rows provide 1.8 m buffer from tree trunks for root zone separation
-4. **Rotation:** Every 4–5 years MLB strips refurbished using fresh seedlings; old rows chipped for mulch.
+   - **No separate MLB blocks:** All MLB is intercropped within the SAB belts
+
+5. **System Renewal:**
+   - Every 4–5 years MLB strips refurbished using fresh seedlings
+   - Old rows chipped for mulch or biochar feedstock
+   - Staggered renewal ensures continuous production
+
+6. **Seed Quality Management:**
+   - Quarterly germination testing of stored seed
+   - Climate-controlled storage (humidity <40%, temperature <20°C)
+   - Oldest viable seed redirected to oil production after 24 months
 
 ---
 
@@ -520,18 +690,18 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 2. **Year 1 Q1 (Jan-Mar 2026):** 
    - Complete primary well drilling (target depth 150-200 m)
    - Install submersible pump system and power supply
-   - Construct initial water storage facility (100 m³)
+   - Construct initial water storage facility (80 m³)
 3. **Year 1 Q4 (Oct-Dec 2026):**
    - Complete pumping system and filtration
    - Install main distribution lines to priority planting areas
    - Begin monitoring of extraction rates and water quality
-   - **Maintain 100 m³ buffer capacity**
+   - **Maintain 80 m³ buffer capacity**
 4. **Year 2 Q4 (Oct-Dec 2027):** 
-   - **Expand buffer capacity to 150 m³**
+   - **Expand buffer capacity to 100 m³**
    - **Install water meters on main lines to monitor actual usage**
    - **Implement leak detection system**
 5. **Year 3 Q4 (Oct-Dec 2028):**
-   - **Expand buffer capacity to 200 m³ (≈10% of monthly permit)**
+   - **Expand buffer capacity to 150 m³ (≈10% of monthly permit)**
    - **Complete water use efficiency audit**
    - **Implement water recycling for cleaning operations**
 
@@ -539,10 +709,10 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 
 | Year | Areas Under Irrigation | Estimated Use (Mm³) | Permit (Mm³) | Headroom (%) |
 |------|------------------------|---------------------|--------------|--------------|
-| 2026 | MSB (20f), CFB (50f), SAB (20f) | 0.17 | 0.66 | 74% |
-| 2027 | MSB (25f), CFB (80f), SAB (45f) | 0.24 | 0.66 | 64% |
-| 2028 | MSB (25f), CFB (100f), SAB (45f), MLB (15f) | 0.36 | 0.66 | 45% |
-| 2029 | MSB (25f), CFB (120f), SAB (50f), MLB (35f) | 0.58 | 0.66 | 12% |
+| 2026 | MSB (15f), CFB (30f), SAB (15f) | 0.12 | 0.66 | 82% |
+| 2027 | MSB (20f), CFB (50f), SAB (25f) | 0.17 | 0.66 | 74% |
+| 2028 | MSB (22f), CFB (70f), SAB with MLB intercropping (28f) | 0.29 | 0.66 | 56% |
+| 2029 | MSB (25f), CFB (85f), SAB with MLB intercropping (30f) | 0.42 | 0.66 | 36% |
 
 **Water Usage Priorities:**
 1. MSB and SAB establishment (critical)
@@ -565,10 +735,10 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 | Year | Hives | Key Tasks | Honey Yield (est.) | Marketing Focus |
 | ---- | ----- | -------------------------------------------------------------------- | ------------------ | --------------- |
 | 2026 | 0-2 (training only) | Apiary site selection, equipment acquisition, beekeeper training, infrastructure development | 0 kg (training only) | Local market research |
-| 2027 | 25-30 | First hive introduction timed with cactus flowering (Q1-Q2), expand with moringa bloom (Q3), establish migration protocols | 200-250 kg (initial production) | Regional product testing and standards development |
-| 2028 | 50-60 | First commercial honey harvest, hive rotation between cactus and moringa, first Sidr trials (Q4) | 600-800 kg (primarily cactus+moringa) | Regional distribution channels, packaging development |
-| 2029 | 70-80 | Optimize colony management, refined rotation protocols, expanded Sidr trials | 1,400-1,600 kg (all types) | Export markets; high-end domestic outlets |
-| 2030 | 90-100 | Complete rotation system, specialized extraction protocols, advanced queen breeding | 2,000-2,200 kg (incl. 200+ kg premium Sidr) | International specialty markets |
+| 2027 | 15-20 | First hive introduction timed with cactus flowering (Q1-Q2), expand with moringa bloom (Q3), establish migration protocols | 140-160 kg (initial production) | Regional product testing and standards development |
+| 2028 | 30-40 | First commercial honey harvest, hive rotation between cactus and moringa, first Sidr trials (Q4) | 450-550 kg (primarily cactus+moringa) | Regional distribution channels, packaging development |
+| 2029 | 50-60 | Optimize colony management, refined rotation protocols, expanded Sidr trials | 1,000-1,100 kg (all types) | Export markets; high-end domestic outlets |
+| 2030 | 65-75 | Complete rotation system, specialized extraction protocols, advanced queen breeding | 1,350-1,500 kg (incl. 150+ kg premium Sidr) | International specialty markets |
 
 **Beekeeping Implementation Principles:**
 - Introduce hives only when flowering crops are established
@@ -584,17 +754,17 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 | Year | Herd Size | Feed Sources | Infrastructure Needs | Production Goals |
 | ---- | --------- | ------------ | -------------------- | ---------------- |
 | 2026 | 0 head | - MSB trimmings only (feed bank establishment) | - Basic shelter<br>- Water troughs<br>- Small processing area | - Build feed reserves<br>- Test feeding protocols |
-| 2027 | 3-5 head | - 60% CFB cactus pads<br>- 40% MSB trimmings | - Water trough system<br>- Basic shade structures<br>- Feed storage facility | - Establish breeding stock<br>- Manure for compost<br>- Feed conversion trials |
-| 2028 | 10-15 head | - 55% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 10% dehydrated pads | - Expanded shelter<br>- Feed storage facility<br>- **Pad dehydrator system**<br>- Improved waste management | - Initial milk production<br>- First calves<br>- 30% compost self-sufficiency |
-| 2029 | 25-30 head | - 45% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 20% dehydrated pads | - Milking station<br>- Expanded processing<br>- Rotational paddocks<br>- **Upgraded dehydration capacity** | - Scaled milk production<br>- Meat production begins<br>- 50% compost self-sufficiency |
-| 2030 | 40-45 head | - 40% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 25% dehydrated pads | - Complete dairy facility<br>- Value-add processing room<br>- Toll processing arrangements for biodiesel | - Full dairy operation<br>- Consistent meat production<br>- 70% compost self-sufficiency |
+| 2027 | 2-3 head | - 60% CFB cactus pads<br>- 40% MSB trimmings | - Water trough system<br>- Basic shade structures<br>- Feed storage facility | - Establish breeding stock<br>- Manure for compost<br>- Feed conversion trials |
+| 2028 | 6-8 head | - 55% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 10% dehydrated pads | - Expanded shelter<br>- Feed storage facility<br>- **Pad dehydrator system**<br>- Improved waste management | - Initial milk production<br>- First calves<br>- 20% compost self-sufficiency |
+| 2029 | 18-22 head | - 45% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 20% dehydrated pads | - Milking station<br>- Expanded processing<br>- Rotational paddocks<br>- **Upgraded dehydration capacity** | - Scaled milk production<br>- Meat production begins<br>- 40% compost self-sufficiency |
+| 2030 | 28-32 head | - 40% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 25% dehydrated pads | - Complete dairy facility<br>- Value-add processing room<br>- Toll processing arrangements for biodiesel | - Full dairy operation<br>- Consistent meat production<br>- 60% compost self-sufficiency |
 
 > **Integration Notes:**
 > - **No cattle introduced in Year 1** to prioritize plant establishment and feed accumulation
 > - Cattle herd size strictly limited to match demonstrated feed production capacity
 > - Year-by-year growth based on actual biomass production rather than target numbers
 > - Dehydrated pads introduced in Year 3 to double the DM content of cactus material
-> - Maximum cattle population capped at 40-45 head based on realistic on-farm feed production
+> - Maximum cattle population capped at 28-32 head based on realistic on-farm feed production
 > - MLB trimmings processed within 24 hours to maintain nutritional value
 > - Breeding program focused on heat-tolerant breeds adapted to cactus/moringa diet
 > - Zero external feed inputs - all nutrition derived from plantation production
@@ -603,11 +773,11 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 
 | Year | Herd Size | Daily DM Requirement | Annual DM Need | DM Production | Buffer |
 |------|-----------|----------------------|----------------|---------------|--------|
-| 2026 | 0 | 0 kg | 0 t | 3 t | 3 t (100%) |
-| 2027 | 3-5 | 21-35 kg | 7.7-12.8 t | 25 t | 12.2-17.3 t (60-70%) |
-| 2028 | 10-15 | 70-105 kg | 25.6-38.3 t | 52 t | 13.7-26.4 t (35-50%) |
-| 2029 | 25-30 | 175-210 kg | 63.9-76.7 t | 77 t | 0.3-13.1 t (0.5-17%) |
-| 2030 | 40-45 | 280-315 kg | 102.2-115 t | 120 t (est.) | 5-17.8 t (4-15%) |
+| 2026 | 0 | 0 kg | 0 t | 2 t | 2 t (100%) |
+| 2027 | 2-3 | 14-21 kg | 5.1-7.7 t | 16 t | 8.3-10.9 t (52-68%) |
+| 2028 | 6-8 | 42-56 kg | 15.3-20.4 t | 35 t | 14.6-19.7 t (42-56%) |
+| 2029 | 18-22 | 126-154 kg | 46.0-56.2 t | 57 t | 0.8-11.0 t (1.4-19%) |
+| 2030 | 28-32 | 196-224 kg | 71.5-81.8 t | 95 t (est.) | 13.2-23.5 t (14-25%) |
 
 > **Calculation basis:**
 > - 7 kg DM/head/day requirement
@@ -630,7 +800,7 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 
 | Risk | Likelihood | Impact | Mitigation Approach |
 |------|------------|--------|---------------------|
-| **Water permit breach due to system losses** | Medium | Medium | • Build buffer tanks (200 m³ by Year 3)<br>• Implement comprehensive monitoring system<br>• Maintain 10-15% headroom between planned use and permit limit<br>• Conduct monthly water audits to identify inefficiencies |
+| **Water permit breach due to system losses** | Medium | Medium | • Build buffer tanks (150 m³ by Year 3)<br>• Implement comprehensive monitoring system<br>• Maintain 15-20% headroom between planned use and permit limit<br>• Conduct monthly water audits to identify inefficiencies |
 | **Infrastructure failures affecting water delivery** | Low-Medium | High | • Install redundant pumping capacity<br>• Maintain emergency parts inventory<br>• Implement preventative maintenance program<br>• Develop block-by-block drought contingency plan |
 | **Seasonal water quality fluctuations** | Medium | Medium | • Install multi-stage filtration system<br>• Monitor EC/pH/TDS weekly<br>• Adjust fertilization program based on water quality parameters |
 
@@ -693,32 +863,58 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 ### 7. Implementation Priority Framework
 
 **Year 1 (2026) Priorities:**
-1. Accelerated CFB establishment (50 feddans)
-2. MSB perimeter establishment
-3. First SAB belt planting
+1. Accelerated CFB establishment (30 feddans)
+2. MSB perimeter establishment (15 feddans)
+3. First SAB belt planting (15 feddans)
 4. Irrigation infrastructure
 5. Feed reserve accumulation
 6. **Zero cattle introduction**
 
 **Year 2 (2027) Priorities:**
-1. CFB expansion to 80 feddans
-2. Second SAB belt planting
-3. Beekeeping introduction with first flowering
-4. Conservative cattle introduction (3-5 head)
+1. CFB expansion to 50 feddans
+2. Second SAB belt planting (10 feddans)
+3. Beekeeping introduction with first flowering (15-20 hives)
+4. Conservative cattle introduction (2-3 head)
 5. Feed production system optimization
 
 **Year 3 (2028) Priorities:**
-1. MLB introduction in mature SAB
-2. CFB completion to 100 feddans
+1. MLB introduction in mature SAB (10 feddan-equivalent)
+2. CFB expansion to 70 feddans
 3. Pad dehydration technology
-4. Moderate cattle expansion (10-15 head)
-5. First commercial honey production
+4. Moderate cattle expansion (6-8 head)
+5. First commercial honey production (450-550 kg)
 
 **Year 4 (2029) Priorities:**
-1. CFB completion to 120 feddans
-2. MLB expansion to second SAB belt
-3. Honey production scaling and optimization
-4. Controlled cattle expansion (25-30 head)
+1. CFB completion to 85 feddans
+2. MLB expansion to second SAB belt (25 feddan-equivalent)
+3. Honey production scaling (50-60 hives)
+4. Controlled cattle expansion (18-22 head)
 5. Water efficiency maximization
+
+---
+
+## Quarterly Tree Establishment Schedule
+
+| Quarter | Moringa Seed Trees (MSB) | Sidr Trees | Acacia Trees (SAB) | Acacia Trees (CFB) | Cactus Pads (CFB) | Moringa Leaf Plants (MLB in SAB) | Cumulative MSB | Cumulative Sidr | Cumulative Acacia (SAB) | Cumulative Acacia (CFB) | Cumulative CFB | Cumulative MLB | Total Cumulative |
+|---------|--------------------------|------------|---------------------|---------------------|-------------------|---------------------------|----------------|-----------------|-------------------------|-------------------------|----------------|----------------|------------------|
+| Y1 Q1   | 1,200 (nursery)          | 0          | 0                   | 0                   | 0 (callusing)     | 0                         | 1,200          | 0               | 0                       | 0                       | 0              | 0              | 1,200            |
+| Y1 Q2   | 1,200 (transplanted)     | 0          | 0                   | 1,400               | 65,000            | 0                         | 1,200          | 0               | 0                       | 1,400                   | 65,000         | 0              | 67,600           |
+| Y1 Q3   | 0                        | 400 (nursery) | 200 (nursery)     | 1,400               | 65,000            | 0                         | 1,200          | 400             | 200                     | 2,800                   | 130,000        | 0              | 134,200          |
+| Y1 Q4   | 0                        | 1,400      | 700                 | 2,750               | 0                 | 0                         | 1,200          | 1,800           | 900                     | 5,550                   | 130,000        | 0              | 139,450          |
+| Y2 Q1   | 1,250 (nursery)          | 0          | 0                   | 0                   | 0 (callusing)     | 0                         | 1,200          | 1,800           | 900                     | 5,550                   | 130,000        | 0              | 139,450          |
+| Y2 Q2   | 1,250 (transplanted)     | 1,000      | 500                 | 1,110               | 33,300            | 0                         | 2,450          | 2,800           | 1,400                   | 6,660                   | 163,300        | 0              | 176,610          |
+| Y2 Q3   | 0                        | 0          | 0                   | 1,110               | 0                 | 0                         | 2,450          | 2,800           | 1,400                   | 7,770                   | 163,300        | 0              | 177,720          |
+| Y2 Q4   | 0                        | 0          | 0                   | 1,110               | 0                 | 0                         | 2,450          | 2,800           | 1,400                   | 8,880                   | 163,300        | 0              | 178,830          |
+| Y3 Q1   | 1,250 (nursery)          | 0          | 0                   | 0                   | 0 (callusing)     | 66,665 (nursery)          | 2,450          | 2,800           | 1,400                   | 8,880                   | 163,300        | 0              | 178,830          |
+| Y3 Q2   | 1,250 (transplanted)     | 500        | 250                 | 740                 | 22,200            | 66,665 (transplanted)     | 3,700          | 3,300           | 1,650                   | 9,620                   | 185,500        | 66,665         | 270,435          |
+| Y3 Q3   | 1,250 (nursery)          | 0          | 0                   | 740                 | 0                 | 0                         | 3,700          | 3,300           | 1,650                   | 10,360                  | 185,500        | 66,665         | 271,175          |
+| Y3 Q4   | 1,250 (transplanted)     | 0          | 0                   | 740                 | 0                 | 0                         | 4,950          | 3,300           | 1,650                   | 11,100                  | 185,500        | 66,665         | 273,165          |
+| Y4 Q1   | 1,250 (nursery)          | 0          | 0                   | 0                   | 0 (callusing)     | 66,665 (nursery)          | 4,950          | 3,300           | 1,650                   | 11,100                  | 185,500        | 66,665         | 273,165          |
+| Y4 Q2   | 1,250 (transplanted)     | 30         | 15                  | 740                 | 22,200            | 66,665 (transplanted)     | 6,200          | 3,330           | 1,665                   | 11,840                  | 207,700        | 133,330        | 364,065          |
+| Y4 Q3   | 1,250 (nursery)          | 0          | 0                   | 740                 | 0                 | 0                         | 6,200          | 3,330           | 1,665                   | 12,580                  | 207,700        | 133,330        | 364,805          |
+| Y4 Q4   | 1,250 (transplanted)     | 0          | 0                   | 740                 | 0                 | 0                         | 7,450          | 3,330           | 1,665                   | 13,320                  | 207,700        | 133,330        | 366,795          |
+| **TOTAL** | **7,450** | **2,930** | **1,465** | **13,320** | **207,700** | **133,330** | **7,450** | **3,330** | **1,665** | **13,320** | **207,700** | **133,330** | **366,795** |
+
+> Note: Nursery numbers indicate propagation activities before field transplanting. Cactus pad callusing occurs in dedicated nursery areas before field planting. The establishment schedule aligns with optimal seasonal planting windows (Feb-Mar, Oct-Nov) and ensures adequate infrastructure development precedes major planting operations. CFB-integrated Acacia trees (13,320 total) are planted as intercropped support trees within the entire cactus production system at 6×6m spacing. MLB plants are only intercropped within SAB belts, not as separate blocks.
 
 ---
