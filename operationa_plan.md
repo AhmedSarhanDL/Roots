@@ -11,9 +11,9 @@
 
 | Item | Definition |
 | ---- | ---------- |
-| **Purpose** | Build a closed‑loop, 150‑feddan (≈ 0.63 km²) regenerative farm in El Tor, South Sinai that (1) feeds ≈ 30 beef cattle year‑round, (2) produces its own biodiesel & ethanol, and (3) generates three cash streams — cactus fruit, moringa oil + press‑cake, and monofloral honey (cactus, moringa, premium Sidr). |
+| **Purpose** | Build a closed‑loop, 150‑feddan (≈ 0.63 km²) regenerative farm in El Tor, South Sinai that (1) feeds ≈ 120-150 sheep year‑round, (2) produces its own biodiesel & ethanol, and (3) generates three cash streams — cactus fruit, moringa oil + press‑cake, and monofloral honey (cactus, moringa, premium Sidr). |
 | **Land‑use architecture** | A – Wind‑break ring: 4 × 4 m moringa seed trees, ≈ 25 feddans (continuous 30 m band).<br>B – Sidr + Acacia belts: two rings totalling 30 feddans; tree grid 6 × 6 m, pattern 1 Acacia : 2 Sidr.<br>  • Leaf‑moringa intercrops: 4 rows × 30 cm (1.2 m) + 1.5 m lanes between every tree row.<br>C – Cactus‑fig core: ≈ 85 feddans; rows N‑S, 2.5 m × 1.5 m.  <!-- ~57 % of 150 feddans --> <br>D – Service / residential hub: ≈ 10 feddans centre‑east (roads, compost yard, workshop, housing).<br>(Option) Expand MSB area by 5–8 feddans if extra feed security desired. |
-| **Target outputs** (steady‑state, Year 5) | • Feed: ≈ 100 t DM yr‑¹ (cactus pads ½ + leaf‑moringa from MSB & SAB intercropping) → 28-32 cattle.<br>• Oil: ≈ 5 000 L moringa oil yr‑¹ + 3.2 t press‑cake.<br>• Honey: cactus (spring), moringa (summer) & 200–250 kg "3assal Sidr" (autumn).<br>• Fruit: 4–6 t feddan‑¹ × 85 f → 340–510 t fresh pads + 425-500 t fruit → farm‑gate revenue ≈ EGP 3–5 M yr‑¹.<br>• Note: Ethanol (1 000–2 000 L yr‑¹ from cactus pads) and biodiesel production planned for Phase II (Years 6+). |
+| **Target outputs** (steady‑state, Year 5) | • Feed: ≈ 100 t DM yr‑¹ (cactus pads ½ + leaf‑moringa from MSB & SAB intercropping) → 120-150 sheep.<br>• Oil: ≈ 5 000 L moringa oil yr‑¹ + 3.2 t press‑cake.<br>• Honey: cactus (spring), moringa (summer) & 200–250 kg "3assal Sidr" (autumn).<br>• Fruit: 4–6 t feddan‑¹ × 85 f → 340–510 t fresh pads + 425-500 t fruit → farm‑gate revenue ≈ EGP 3–5 M yr‑¹.<br>• Sheep products: Premium desert-raised lamb meat and wool.<br>• Note: Ethanol (1 000–2 000 L yr‑¹ from cactus pads) and biodiesel production planned for Phase II (Years 6+). |
 | **Water plan** | Total initial demand ≈ 0.42 Mm³ yr‑¹ (aligned with the current 1 800 m³ d‑¹ extraction permit). Expansion above this threshold is contingent on drilling a second well or adding seasonal storage (STES reservoir).<br>– Cactus drip: 400–600 m³ feddan‑¹ yr‑¹ (deep pulse, 12‑day).<br>– Leaf‑moringa porous pipe: 2 300 m³ feddan‑¹ yr‑¹.<br>– Sidr basins & Acacia: ≈ 250 m³ feddan‑¹ yr‑¹ (establishment only). <br>– **System losses**: 5% allocation for leaks, filter backwash, and evaporation. |
 ### Land Allocation Overview
 
@@ -94,40 +94,40 @@
 
 ## Year 1 (2026) – Establish Core Systems: MSB, CFB & First SAB (≈70 Feddans)
 
-| Quarter          | MSB (Seed Trees)                                                | CFB                                                       | SAB (Sidr & Acacia)                                | Beekeeping                                     | Cattle & Feed                        | Infra & Labor                                             |
+| Quarter          | MSB (Seed Trees)                                                | CFB                                                       | SAB (Sidr & Acacia)                                | Beekeeping                                     | Sheep & Feed                        | Infra & Labor                                             |
 | ---------------- | --------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------ | --------------------------------------------------------- |
 | **Q1 (Jan–Mar)** | Nursery sow 1 250 seeds → 900 transplants (15 feddans @3×5 m) | Collect & prepare cladodes, intensive callusing operation | Prepare NW belt site (≈15 feddans)                | **Beekeeper recruitment and training**         | Feed mixer & bins installed          | **Complete well drilling**; water trunk line; 6 permanent hires |
 | **Q2 (Apr–Jun)** | Transplant 900 seedlings                                      | **Transplant 45,000 cladodes** (≈15 feddans)              | –                                                  | **Equipment acquisition and site preparation** | Build first compost bays             | Storage & workshop complete; install well pumping system    |
-| **Q3 (Jul–Sep)** | Establishment care, first **light** leaf pruning (\~3 t fresh)  | Transplant additional 45,000 cladodes (≈15 feddans)       | Nursery preparation for 450 trees (300 Sidr, 150 Acacia) | **Apiary infrastructure setup, nectar assessment** | No cattle yet - focus on pad establishment | 3 seasonal planters; water distribution system expansion   |
+| **Q3 (Jul–Sep)** | Establishment care, first **light** leaf pruning (\~3 t fresh)  | Transplant additional 45,000 cladodes (≈15 feddans)       | Nursery preparation for 450 trees (300 Sidr, 150 Acacia) | **Apiary infrastructure setup, nectar assessment** | No sheep yet - focus on pad establishment | 3 seasonal planters; water distribution system expansion   |
 | **Q4 (Oct–Dec)** | Regular 45‑day leaf trims (≈7 t)                               | Establishment care; **set aside 3 feddans for propagation** | **Plant first NW Sidr-Acacia belt** (15 feddans)  | **Establish 2 training hives only** (no production) | Feed trials with MSB leaf only      | Seed‑cleaning unit installed; **install water buffer tank (80 m³)** |
 
-**Outcome Y1:** MSB fully rooted; first seed pods set (green). Accelerated CFB establishment (30 feddans). First Sidr-Acacia belt planted (15 feddans). Beekeeping infrastructure established with training hives only. No MLB yet. No cattle introduced.
+**Outcome Y1:** MSB fully rooted; first seed pods set (green). Accelerated CFB establishment (30 feddans). First Sidr-Acacia belt planted (15 feddans). Beekeeping infrastructure established with training hives only. No MLB yet. No sheep introduced.
 
 ---
 
 ## Year 2 (2027) – Scale Core Components to 105 Feddans with Early Honey Production
 
-| Quarter          | MSB                                                          | CFB                                                | SAB                                               | Beekeeping                                          | Cattle & Feed                                            | Infra & Labor                           |
+| Quarter          | MSB                                                          | CFB                                                | SAB                                               | Beekeeping                                          | Sheep & Feed                                            | Infra & Labor                           |
 | ---------------- | ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------- | --------------------------------------- |
 | **Q1 (Jan–Mar)** | Harvest first mature pods (≈200 kg seed) → on‑farm seed bank | Add 10 feddans from propagation paddocks            | Establishment care (irrigation basins)            | **Deploy first 8-10 hives** with cactus flowering | Continue feed development and storage                    | Apiary infrastructure; compost bay #2    |
-| **Q2 (Apr–Jun)** | Ongoing leaf trims (≈8 t)                                   | Add 10 feddans; total 50 feddans CFB               | Prep second belt site (≈10 feddans)            | Intensive hive management during bloom peak        | **Introduce 2-3 cattle** for initial trials              | +2 labor (1 dedicated to apiary); **develop pad dehydrator prototype** |
+| **Q2 (Apr–Jun)** | Ongoing leaf trims (≈8 t)                                   | Add 10 feddans; total 50 feddans CFB               | Prep second belt site (≈10 feddans)            | Intensive hive management during bloom peak        | **Introduce 10-15 sheep** for initial trials              | +2 labor (1 dedicated to apiary); **develop pad dehydrator prototype** |
 | **Q3 (Jul–Sep)** | Steady leaf supply                                           | First pad harvest year‑1 cactus (≈35 t trial harvest) | Nursery for second belt (300 Sidr, 150 Acacia); **setup poly-tunnel for improved Sidr propagation** | **Expand to 15-20 hives** for moringa nectar flow    | Implement balanced feed ration (MSB leaf + CFB pads)     | Dedicated honey processing facility     |
 | **Q4 (Oct–Dec)** | Seed set for next cycle (reserve)                            | Continued pad harvest (year‑1 cactus ≈30 t)         | **Plant second Sidr-Acacia belt** (10 feddans) | Process first small honey batch (80-120 kg); hive winterization | Maintain conservative stocking rate; feed trials continue | Add 3 workers end‑Q4; honey sales setup; **expand water buffer to 100 m³** |
 
-**Outcome Y2:** Both Sidr-Acacia belts established (25 feddans total). CFB expanded to 50 feddans. First beehives introduced timed with cactus and moringa flowering. Initial small-scale honey production. Minimal cattle introduction (2-3 head) to build feed reserves.
+**Outcome Y2:** Both Sidr-Acacia belts established (25 feddans total). CFB expanded to 50 feddans. First beehives introduced timed with cactus and moringa flowering. Initial small-scale honey production. Minimal sheep introduction (10-15 head) to build feed reserves.
 
 ---
 
 ## Year 3 (2028) – Expand Beekeeping & Introduce MLB in Mature SAB
 
-| Quarter          | MSB                                              | SAB with MLB Intercropping                                           | CFB                                           | Beekeeping                                                        | Cattle & Feed                      | Infra & Labor                   |
+| Quarter          | MSB                                              | SAB with MLB Intercropping                                           | CFB                                           | Beekeeping                                                        | Sheep & Feed                      | Infra & Labor                   |
 | ---------------- | ------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------- | ------------------------------- |
-| **Q1 (Jan–Mar)** | Maintenance pruning; harvest mature pods (≈500 kg); expand MSB by 1 feddans  | First belt maintenance; canopy development; nursery sow 700 trays for MLB intercrop | Add 10 feddans (total 60 f)                   | **Scale to 25-30 hives**; position for peak cactus bloom          | **Increase to 6-8 cattle**      | Expand apiary infrastructure; **complete pad dehydrator setup**    |
+| **Q1 (Jan–Mar)** | Maintenance pruning; harvest mature pods (≈500 kg); expand MSB by 1 feddans  | First belt maintenance; canopy development; nursery sow 700 trays for MLB intercrop | Add 10 feddans (total 60 f)                   | **Scale to 25-30 hives**; position for peak cactus bloom          | **Increase to 30-40 sheep**      | Expand apiary infrastructure; **complete pad dehydrator setup**    |
 | **Q2 (Apr–Jun)** | Ongoing leaf production (≈10 t); expand MSB by 1 feddans                  | **Transplant first MLB into mature SAB** (4-row system between tree rows); second belt establishment care | Add 10 feddans (total 70 f)                  | Colony splitting; boost pollination across farm                    | Feed mixer upgrade; **test dehydrated pad feeding** | +3 labor (1 for beekeeping)     |
 | **Q3 (Jul–Sep)** | Seed production focus                            | First MLB harvest trials (≈6 t from intercropped system)              | Substantial pad harvest (≈55 t)               | **First commercial honey harvest** (≈400 kg, mostly cactus)  | Scale up dehydrated pad production  | Build advanced honey processing |
-| **Q4 (Oct–Dec)** | Reserve seed for Year 4                          | Refine MLB harvest protocols; **first significant Sidr bloom**         | Continue pad harvest rotation (≈45 t)         | **Deploy 5-10 hives for Sidr trial**; total 30-40 hives          | **Scale to 10 head maximum**      | Honey marketing infrastructure; **expand water buffer to 150 m³**  |
+| **Q4 (Oct–Dec)** | Reserve seed for Year 4                          | Refine MLB harvest protocols; **first significant Sidr bloom**         | Continue pad harvest rotation (≈45 t)         | **Deploy 5-10 hives for Sidr trial**; total 30-40 hives          | **Scale to maximum 40 head**      | Honey marketing infrastructure; **expand water buffer to 150 m³**  |
 
-**Outcome Y3:** MLB introduced as intercrops within mature SAB (first belt); MSB expanded to 22 feddans; CFB expanded to 70 feddans; first commercial honey production; first Sidr nectar trial. Cattle herd carefully scaled to match feed production (10 head).
+**Outcome Y3:** MLB introduced as intercrops within mature SAB (first belt); MSB expanded to 22 feddans; CFB expanded to 70 feddans; first commercial honey production; first Sidr nectar trial. Sheep flock carefully scaled to match feed production (40 head).
 
 ---
 
@@ -138,13 +138,13 @@
 - **MLB:** Expand intercrops to second SAB belt (equivalent to 25 feddans total); optimize leaf production for honey quality over quantity.
 - **CFB:** Complete core planting (total 85 feddans); manage for optimal pollen/nectar production alongside fruit.
 - **SAB:** Both belts established; complete leaf-moringa intercrops; significant Sidr bloom in both belts.
-- **Cattle Herd:** Increase to 18-22 head based on demonstrated feed production; enhance feeding with dehydrated pads to improve DM content.
+- **Sheep Flock:** Increase to 70-90 head based on demonstrated feed production; enhance feeding with dehydrated pads to improve DM content.
 - **Composting:** All manure + pruned cactus + Acacia leaf litter + residues return to soil.
 - **Energy:** Begin biodiesel processing from MSB seeds; delay full ethanol production to Year 6.
 - **Honey Processing:** Establish dedicated facility for extraction, filtration, packaging and specialized monofloral certification.
 - **Water Management:** Complete water use efficiency audit; maintain 150 m³ buffer capacity (5% of monthly extraction).
 
-**Outcome Y4:** Honey production fully optimized with cactus and moringa monofloral products; Sidr honey trials expanded; cattle operations scaled to match feed production capacity (18-22 head).
+**Outcome Y4:** Honey production fully optimized with cactus and moringa monofloral products; Sidr honey trials expanded; sheep operations scaled to match feed production capacity (70-90 head).
 
 ---
 ## Expected Harvest Volumes by Year
@@ -171,7 +171,7 @@
 > - **Cactus Pads:** 30 feddans × ~2.3 t/feddan in Y2; 70 feddans × ~1.4 t/feddan in Y3; 85 feddans × ~1.8 t/feddan in Y4
 > - **Cactus Fruit:** 30 feddans × ~0.53 t/feddan in Y2; 70 feddans × ~0.8 t/feddan in Y3; 85 feddans × ~1.24 t/feddan in Y4
 > - **Honey:** Based on hive productivity of ~15-20 kg/hive/year across all floral sources; limited in early years during establishment
-> - **Feed DM (Y4):** 150 t fresh pads (15 t DM @ 10%) + 18 t dehydrated pads (17 t DM @ ~95%) + 125 t fresh moringa leaf (25 t DM @ 20%) = 57 t DM total, sufficient for ~22 cattle at 7 kg DM/hd·d
+> - **Feed DM (Y4):** 150 t fresh pads (15 t DM @ 10%) + 18 t dehydrated pads (17 t DM @ ~95%) + 125 t fresh moringa leaf (25 t DM @ 20%) = 57 t DM total, sufficient for ~110 sheep at 1.4 kg DM/hd·d
 
 ## Key Plant Species & Their Roles
 
@@ -524,7 +524,7 @@ This biodiesel production plan integrates with the expanded moringa cultivation 
 
 | Source | Annual volume | C : N role |
 |--------|---------------|-----------|
-| Cattle manure (30 hd) | 100 t fresh ≈ 42 t DM | N & microbes |
+| Sheep manure (150 hd) | 75 t fresh ≈ 38 t DM | N & microbes |
 | Acacia leaf litter | 10 t | Carbon, slow N |
 | Moringa press‑cake | 3.2 t | High N |
 | Biochar fines | 2 t | Structure, adsorption |
@@ -601,7 +601,7 @@ Commissioning planned **Q1 2031** once cash‑flow turns positive and honey expo
 |---------|-------------|-------------------------|
 | Cactus fruit | Farm‑gate crate 5–7 EGP kg⁻¹ | 6 EGP |
 | Moringa oil | Bulk cosmetic grade | 400 EGP L⁻¹ |
-| Sidr honey | Premium monofloral | 1000 EGP kg⁻¹ |
+| Sidr honey | Premium monofloral | 1000 EGP kg⁻¹ |   
 | Moringa & cactus honey | Domestic retail | 800 EGP kg⁻¹ |
 
 Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
@@ -610,7 +610,7 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 ## Operational Systems
 
 ### Fertility Management
-- **Compost Production**: 40–60 cattle produce ≥200 t finished compost annually
+- **Compost Production**: 120-150 sheep produce ≥100 t finished compost annually
 - **Additional Inputs**: Acacia leaf litter, moringa press-cake, biochar
 - **Application Rate**: 3 t feddan⁻¹ to leaf beds every 2–3 harvests
 
@@ -632,7 +632,7 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 |--------|---------------|
 | Y0–0.5 | Establish perimeter moringa, first cactus block, and mainlines |
 | Y0.5–1 | Plant NW Sidr-Acacia belt; start 30 cm leaf beds; introduce 20 hives |
-| Y1–2   | Expand cactus to 100 feddan; finish both belts; cattle herd to 60 head |
+| Y1–2   | Expand cactus to 100 feddan; finish both belts; sheep flock to 30-40 head |
 | Y2–3   | Fill cactus core to 150 feddan; begin Sidr honey harvest; evaluate mechanical leaf cutter |
 
 ### Design Parameters
@@ -719,7 +719,7 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 2. CFB establishment (efficient/drought-tolerant)
 3. Bee watering stations (strategic placement)
 4. MLB (after SAB microclimate established)
-5. Cattle operations (scaled according to water availability)
+5. Sheep operations (scaled according to water availability)
 
 **Water Efficiency Measures:**
 - Implement deep, infrequent irrigation for CFB to encourage deep rooting
@@ -749,116 +749,68 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 - Develop specialized extraction protocols to maintain variety separation
 
 ---
-## Cattle Expansion Plan
+## Sheep Expansion Plan
 
-| Year | Herd Size | Feed Sources | Infrastructure Needs | Production Goals |
+| Year | Flock Size | Feed Sources | Infrastructure Needs | Production Goals |
 | ---- | --------- | ------------ | -------------------- | ---------------- |
 | 2026 | 0 head | - MSB trimmings only (feed bank establishment) | - Basic shelter<br>- Water troughs<br>- Small processing area | - Build feed reserves<br>- Test feeding protocols |
-| 2027 | 2-3 head | - 60% CFB cactus pads<br>- 40% MSB trimmings | - Water trough system<br>- Basic shade structures<br>- Feed storage facility | - Establish breeding stock<br>- Manure for compost<br>- Feed conversion trials |
-| 2028 | 6-8 head | - 55% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 10% dehydrated pads | - Expanded shelter<br>- Feed storage facility<br>- **Pad dehydrator system**<br>- Improved waste management | - Initial milk production<br>- First calves<br>- 20% compost self-sufficiency |
-| 2029 | 18-22 head | - 45% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 20% dehydrated pads | - Milking station<br>- Expanded processing<br>- Rotational paddocks<br>- **Upgraded dehydration capacity** | - Scaled milk production<br>- Meat production begins<br>- 40% compost self-sufficiency |
-| 2030 | 28-32 head | - 40% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 25% dehydrated pads | - Complete dairy facility<br>- Value-add processing room<br>- Toll processing arrangements for biodiesel | - Full dairy operation<br>- Consistent meat production<br>- 60% compost self-sufficiency |
+| 2027 | 10-15 head | - 60% CFB cactus pads<br>- 40% MSB trimmings | - Shade structures<br>- Fencing system<br>- Feed storage facility | - Establish breeding flock<br>- Manure for compost<br>- Feed conversion trials |
+| 2028 | 30-40 head | - 55% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 10% dehydrated pads | - Expanded paddocks<br>- Feed storage facility<br>- **Pad dehydrator system**<br>- Improved waste management | - First lamb crop<br>- Initial wool production<br>- 20% compost self-sufficiency |
+| 2029 | 70-90 head | - 45% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 20% dehydrated pads | - Rotational grazing system<br>- Lambing facilities<br>- Shearing station<br>- **Upgraded dehydration capacity** | - Scaled lamb production<br>- Premium wool harvest<br>- 40% compost self-sufficiency |
+| 2030 | 120-150 head | - 40% CFB cactus pads<br>- 35% MSB+MLB trimmings<br>- 25% dehydrated pads | - Complete handling facilities<br>- Small processing room<br>- Cold storage<br>- Toll arrangements for wool processing | - Commercial lamb production<br>- Desert wool branding<br>- 60% compost self-sufficiency |
 
 > **Integration Notes:**
-> - **No cattle introduced in Year 1** to prioritize plant establishment and feed accumulation
-> - Cattle herd size strictly limited to match demonstrated feed production capacity
+> - **No sheep introduced in Year 1** to prioritize plant establishment and feed accumulation
+> - Sheep flock size strictly limited to match demonstrated feed production capacity
 > - Year-by-year growth based on actual biomass production rather than target numbers
 > - Dehydrated pads introduced in Year 3 to double the DM content of cactus material
-> - Maximum cattle population capped at 28-32 head based on realistic on-farm feed production
+> - Maximum sheep population capped at 120-150 head based on realistic on-farm feed production
 > - MLB trimmings processed within 24 hours to maintain nutritional value
-> - Breeding program focused on heat-tolerant breeds adapted to cactus/moringa diet
+> - Breeding program focused on desert-adapted breeds (e.g., Barki, Ossimi, Rahmani)
 > - Zero external feed inputs - all nutrition derived from plantation production
+> - Rotational grazing system with portable electric fencing to optimize manure distribution
 
 ## Feed Balance Verification
 
-| Year | Herd Size | Daily DM Requirement | Annual DM Need | DM Production | Buffer |
+| Year | Flock Size | Daily DM Requirement | Annual DM Need | DM Production | Buffer |
 |------|-----------|----------------------|----------------|---------------|--------|
 | 2026 | 0 | 0 kg | 0 t | 2 t | 2 t (100%) |
-| 2027 | 2-3 | 14-21 kg | 5.1-7.7 t | 16 t | 8.3-10.9 t (52-68%) |
-| 2028 | 6-8 | 42-56 kg | 15.3-20.4 t | 35 t | 14.6-19.7 t (42-56%) |
-| 2029 | 18-22 | 126-154 kg | 46.0-56.2 t | 57 t | 0.8-11.0 t (1.4-19%) |
-| 2030 | 28-32 | 196-224 kg | 71.5-81.8 t | 95 t (est.) | 13.2-23.5 t (14-25%) |
+| 2027 | 10-15 | 15-23 kg | 5.5-8.3 t | 16 t | 7.7-10.5 t (48-66%) |
+| 2028 | 30-40 | 45-60 kg | 16.4-21.9 t | 35 t | 13.1-18.6 t (37-53%) |
+| 2029 | 70-90 | 105-135 kg | 38.3-49.3 t | 57 t | 7.7-18.7 t (14-33%) |
+| 2030 | 120-150 | 180-225 kg | 65.7-82.1 t | 95 t (est.) | 12.9-29.3 t (14-31%) |
 
 > **Calculation basis:**
-> - 7 kg DM/head/day requirement
+> - 1.5 kg DM/head/day requirement for mature sheep (average of breeds)
 > - Cactus fresh pads = 10% DM
 > - Dehydrated pads = 95% DM
 > - Moringa leaf = 20% DM
 > - Maintain 15-20% feed buffer where possible
+> - Flock includes breeding ewes, rams and growing lambs (average intake)
+
+## Nutrient Cycling & Compost Schedule
+
+| Source | Annual volume | C : N role |
+|--------|---------------|-----------|
+| Sheep manure (150 hd) | 75 t fresh ≈ 38 t DM | N & microbes |
+| Acacia leaf litter | 10 t | Carbon, slow N |
+| Moringa press‑cake | 3.2 t | High N |
+| Biochar fines | 2 t | Structure, adsorption |
+
+**Compost plan.** Static piles, 20 m windrow, turn every 10 days.  
+Apply **3 t feddan⁻¹** to MLB beds **after every 3rd harvest** (~April & Oct). Spot‑dress MSB and SAB basins at 1 t feddan⁻¹ each winter.
 
 ## Risk Analysis & Mitigation Strategies
 
-### 1. Feed Supply & Cattle Balance
+### 1. Feed Supply & Sheep Flock Management
 
 | Risk | Likelihood | Impact | Mitigation Approach |
 |------|------------|--------|---------------------|
-| **Feed DM shortfall for planned herd size** | Medium | Critical | • Maintain strict cattle population limits based on demonstrated feed production<br>• No cattle in Year 1; max 5 head in Year 2; max 15 head in Year 3<br>• Implement pad dehydration to double DM content<br>• Maintain minimum 15% feed buffer at all times |
+| **Feed DM shortfall for planned flock size** | Medium | Critical | • Maintain strict sheep population limits based on demonstrated feed production<br>• No sheep in Year 1; max 15 head in Year 2; max 40 head in Year 3<br>• Implement pad dehydration to double DM content<br>• Maintain minimum 15% feed buffer at all times |
 | **Seasonal feed quality fluctuations** | Medium | Medium | • Implement rotational harvesting to maintain consistent supply<br>• Develop feed storage protocols to minimize nutrient degradation<br>• Balance fresh:dried ratios seasonally to maintain nutrition targets |
-| **Propagation vs. feed competition** | High | High | • Dedicate 5 feddans specifically for pad propagation<br>• Prioritize propagation needs over feed during expansion phases<br>• Scale cattle introduction only after propagation needs are satisfied |
-
-### 2. Water Management & Irrigation
-
-| Risk | Likelihood | Impact | Mitigation Approach |
-|------|------------|--------|---------------------|
-| **Water permit breach due to system losses** | Medium | Medium | • Build buffer tanks (150 m³ by Year 3)<br>• Implement comprehensive monitoring system<br>• Maintain 15-20% headroom between planned use and permit limit<br>• Conduct monthly water audits to identify inefficiencies |
-| **Infrastructure failures affecting water delivery** | Low-Medium | High | • Install redundant pumping capacity<br>• Maintain emergency parts inventory<br>• Implement preventative maintenance program<br>• Develop block-by-block drought contingency plan |
-| **Seasonal water quality fluctuations** | Medium | Medium | • Install multi-stage filtration system<br>• Monitor EC/pH/TDS weekly<br>• Adjust fertilization program based on water quality parameters |
-
-### 3. Beekeeping & Honey Production
-
-| Risk | Likelihood | Impact | Mitigation Approach |
-|------|------------|--------|---------------------|
-| **Premature hive introduction before adequate nectar** | High | Critical | • Delay hive introduction until flowering crops established<br>• Focus Year 1 on infrastructure and training only<br>• Monitor crop flowering patterns before scaling hive numbers<br>• Maintain supplemental feed capacity for emergency support |
-| **Honey yields below projections** | Medium | Medium | • Scale hive expansion rates to match demonstrated productivity<br>• Implement supplemental feeding during dearth periods<br>• Focus on monofloral quality over total quantity<br>• Develop value-added products to improve margins |
-| **Colony health issues** | Medium | High | • Maintain rigorous pest monitoring<br>• Implement organic disease management protocols<br>• Develop local queen breeding program adapted to conditions<br>• Maintain 15-20% reserve nucleus colonies |
-| **Delayed Sidr flowering/production** | High | Medium | • Treat premium Sidr honey as a Year 6+ product<br>• Focus initial marketing on cactus and moringa honeys<br>• Implement enhanced Sidr tree management protocols<br>• Test small-batch premium Sidr production in Years 4-5 |
-
-### 4. Operational & Labor Management
-
-| Risk | Likelihood | Impact | Mitigation Approach |
-|------|------------|--------|---------------------|
-| **Labor bottlenecks during peak seasons** | High | Medium | • Develop reliable seasonal labor contracts<br>• Implement harvest schedule to distribute labor demand<br>• Trial mechanical harvesting systems by Year 2<br>• Develop piece-rate incentive system for harvest crews |
-| **Technical knowledge gaps** | Medium | High | • Implement comprehensive training program<br>• Develop standard operating procedures for all activities<br>• Create video documentation of technical processes<br>• Establish mentorship program with experienced local farmers |
-| **Equipment breakdowns** | Medium | Medium | • Maintain critical spare parts inventory<br>• Develop relationships with multiple service providers<br>• Implement preventative maintenance program<br>• Design systems with manual backup capabilities |
-
-### 5. Production & Propagation
-
-| Risk | Likelihood | Impact | Mitigation Approach |
-|------|------------|--------|---------------------|
-| **Sidr/Acacia propagation failures** | Medium | Medium | • Establish poly-tunnel nursery by Year 2<br>• Maintain 20% planting buffer for replacement<br>• Diversify propagation methods (seeds + cuttings)<br>• Preserve prime mother plants for cutting production |
-| **Pest/disease outbreaks** | Medium | High | • Implement regular monitoring program<br>• Maintain biodiversity to promote natural enemies<br>• Develop organic pest management protocols<br>• Establish quarantine procedures for new plant material |
-| **Climate extremes affecting production** | Medium | Medium | • Design irrigation to provide emergency cooling<br>• Implement shade cloth for sensitive crops during extreme heat<br>• Maintain strategic carryover reserves of key products<br>• Develop storage protocols to manage harvest timing |
-
-### 6. Financial & Market Risks
-
-| Risk | Likelihood | Impact | Mitigation Approach |
-|------|------------|--------|---------------------|
-| **Extended payback period on processing equipment** | High | Medium | • Defer energy module until Year 6<br>• Utilize third-party processing in interim<br>• Focus on highest-value products first<br>• Implement phased equipment acquisition |
-| **Market price volatility** | Medium | Medium | • Diversify product mix across multiple markets<br>• Develop value-added processing capabilities<br>• Establish direct consumer channels where possible<br>• Maintain flexible production allocation system |
-| **Regulatory changes affecting operations** | Low-Medium | High | • Maintain positive community relationships<br>• Engage proactively with regulatory authorities<br>• Document compliance with all relevant standards<br>• Participate in industry associations and advocacy |
-
-### Risk Prioritization & Annual Review
-
-1. **Critical Path Risks (Immediate Focus):**
-   - Feed supply balance with cattle population
-   - Water permit compliance and system efficiency
-   - Seasonal labor management for harvest operations
-
-2. **Secondary Risks (Year 2-3 Focus):**
-   - Beekeeping yield optimization
-   - Sidr propagation success rate improvement
-   - Product quality consistency and certification
-
-3. **Long-term Risks (Year 4+ Focus):**
-   - Processing equipment ROI optimization
-   - Market diversification and premium positioning
-   - Climate adaptation strategies
-
-**Annual Risk Review Protocol:**
-- Comprehensive risk reassessment each November
-- Quarterly monitoring of critical path risk metrics
-- Adaptation of risk mitigation strategies based on actual performance
-- Development of contingency plans for high-impact scenarios
+| **Propagation vs. feed competition** | High | High | • Dedicate 5 feddans specifically for pad propagation<br>• Prioritize propagation needs over feed during expansion phases<br>• Scale sheep introduction only after propagation needs are satisfied |
+| **Parasite management in sheep** | High | Medium | • Implement rotational grazing system to break parasite cycles<br>• Regular monitoring and targeted organic treatment protocols<br>• Breed selection for parasite resistance<br>• Strategic nutritional supplementation to boost immunity |
+| **Heat stress in flock** | High | Medium | • Design effective shade structures throughout grazing areas<br>• Ensure constant access to clean, cool water<br>• Adjust grazing schedules to cooler parts of day<br>• Select heat-adapted breeds with good thermal regulation |
 
 ### 7. Implementation Priority Framework
 
@@ -868,27 +820,27 @@ Detailed 5‑year cash‑flow in dedicated spreadsheet (see appendix).
 3. First SAB belt planting (15 feddans)
 4. Irrigation infrastructure
 5. Feed reserve accumulation
-6. **Zero cattle introduction**
+6. **Zero sheep introduction**
 
 **Year 2 (2027) Priorities:**
 1. CFB expansion to 50 feddans
 2. Second SAB belt planting (10 feddans)
 3. Beekeeping introduction with first flowering (15-20 hives)
-4. Conservative cattle introduction (2-3 head)
+4. Conservative sheep introduction (10-15 head)
 5. Feed production system optimization
 
 **Year 3 (2028) Priorities:**
 1. MLB introduction in mature SAB (10 feddan-equivalent)
 2. CFB expansion to 70 feddans
 3. Pad dehydration technology
-4. Moderate cattle expansion (6-8 head)
+4. Moderate flock expansion (30-40 head)
 5. First commercial honey production (450-550 kg)
 
 **Year 4 (2029) Priorities:**
 1. CFB completion to 85 feddans
 2. MLB expansion to second SAB belt (25 feddan-equivalent)
 3. Honey production scaling (50-60 hives)
-4. Controlled cattle expansion (18-22 head)
+4. Controlled flock expansion (70-90 head)
 5. Water efficiency maximization
 
 ---
